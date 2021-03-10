@@ -27,3 +27,7 @@ v2021.03.11
 <updatecode>
 0
 <updatecode>
+
+<B站番剧>
+https://api.bilibili.com/x/web-interface/dynamic/region?&jsonp=jsonp&ps=10&rid=1
+<B站番剧>

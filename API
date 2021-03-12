@@ -1,7 +1,11 @@
 <MusicCommendApi>
 https://api.imjad.cn/cloudmusic/?type=comments&id=
 <MusicCommendApi>
-
+<MucicId>
+<song>https://v1.itooi.cn/netease/search?keyword=<song>&type=song&pageSize=1<song>
+<MucicId>
+<song>https://v1.hitokoto.cn/nm/search/<song>?type=SONG&offset=0&limit=2<song>
+<MucicId>
 
 <Weather>
 <appid>

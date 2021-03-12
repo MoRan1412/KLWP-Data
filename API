@@ -1,11 +1,16 @@
 <MusicCommendApi>
 https://api.imjad.cn/cloudmusic/?type=comments&id=
 <MusicCommendApi>
-<MucicId>
+<MusicId>
 <song>https://v1.itooi.cn/netease/search?keyword=<song>&type=song&pageSize=1<song>
-<MucicId>
+<MusicId>
 <song>https://v1.hitokoto.cn/nm/search/<song>?type=SONG&offset=0&limit=2<song>
-<MucicId>
+<MusicId>
+<Music歌词>
+<song>https://v1.hitokoto.cn/nm/summary/<song>?common=true&lyric=true&quick=true<song>
+<Music歌词>
+<song>https://api.itooi.cn/netease/lrc?id=<song><song>
+<Music歌词>
 
 <Weather>
 <appid>

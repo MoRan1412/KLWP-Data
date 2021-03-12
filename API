@@ -31,3 +31,14 @@ v2021.03.11
 <B站视频>
 https://api.bilibili.com/x/web-interface/dynamic/region?&jsonp=jsonp&ps=10&rid=1
 <B站视频>
+<B站动态>
+<UID>https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/space_history?host_uid=<UID>&offset_dynamic_id=0<UID>
+<B站动态>
+<B站追番>
+<UID>https://api.bilibili.com/x/space/bangumi/follow/list?vmid=<UID>&type=1<UID>
+<B站追番>
+
+
+
+
+

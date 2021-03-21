@@ -24,17 +24,21 @@ https://api.imjad.cn/cloudmusic/?type=comments&id=
 
 <update>
 ***更新内容***/
-暂无
+B站收藏更改为B站视频
+修复空气指数API接口
+更换新图标
+优化壁纸部件
+添加颜色编辑按钮
 <update>
 
 
 <updateversion>
-v2021.03.11
+v2021.03.21
 <updateversion>
 
 
 <updatecode>
-0
+1
 <updatecode>
 
 <B站视频>

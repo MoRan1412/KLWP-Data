@@ -24,21 +24,20 @@ pDQEQ54A
 
 <update>
 ***更新内容***/
-B站收藏更改为B站视频/
-修复空气指数API接口/
-更换新图标/
-优化壁纸部件/
-添加颜色编辑按钮
+修复壁纸部件/
+修复音乐暂停播放按键问题/
+部件位置调整/
+APK添加壁纸下载(不定期更新)
 <update>
 
 
 <updateversion>
-v2021.03.21
+v2021.04.25
 <updateversion>
 
 
 <updatecode>
-1
+2
 <updatecode>
 
 <B站视频>

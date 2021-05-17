@@ -2,7 +2,7 @@
 https://api.imjad.cn/cloudmusic/?type=comments&id=
 <MusicCommendApi>
 <MusicId>
-<song>https://v1.itooi.cn/netease/search?keyword=<song>&type=song&pageSize=1<song>
+<song>https://autumnfish.cn/search?keywords=<song><song>
 <MusicId>
 <song>https://v1.hitokoto.cn/nm/search/<song>?type=SONG&offset=0&limit=2<song>
 <MusicId>

@@ -11,6 +11,9 @@ https://api.imjad.cn/cloudmusic/?type=comments&id=
 <Music歌词>
 <song>https://api.imjad.cn/cloudmusic/?type=lyric&id=<song><song>
 <Music歌词>
+<m_pic>
+<song>https://api.imjad.cn/cloudmusic/?type=detail&id=<song><song>
+<m_pic>
 
 <Weather>
 <appid>

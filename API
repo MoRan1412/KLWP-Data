@@ -66,20 +66,21 @@ https://www.ooklibaioo.com/ken/Weather_imgs/qiu.jpg
 https://www.ooklibaioo.com/ken/Weather_imgs/dong.jpg
 <dong>
 
-<test>
-$if(if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,龙卷风,tornado),tianqitubiao_leizhenyu,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,雷阵雨,tstorm),tianqitubiao_dayu,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,大雨,tshower),tianqitubiao_dayu,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,中雨,shower),tianqitubiao_zhongyu,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,小雨,rain),tianqitubiao_xiaoyu,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,雨夹雪,sleet),tianqitubiao_yujiaxue,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,大雪,lsnow),tianqitubiao_daxue,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,中雪,snow),tianqitubiao_zhongxue,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,冰雹,hail),tianqitubiao_bingbao,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,雾,fog),tianqitubiao_wu,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,风,windy),tianqitubiao_dafeng,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,阴,pcloudy),tianqitubiao_qingtianbai,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,多云,mcloudy),tianqitubiao_duoyun,
-if(gv(天气API开关)=1,wg(gv(api3), json, .data[+(si(mindex, 2)+1)+].wea_day),wf(icon, si(mindex, 2)+1))=if(gv(天气API开关)=1,晴,clear),tianqitubiao_qingtianbai_1)$
-<test>
+<Dazzle>
+<update>
+***更新内容***/
+炫动UI重制更新！！！/
+化繁为简/
+全新的新闻界面/
+全新的公式代码/
+文件大小减少至2MB
+<update>
 
+<updateversion>
+v2021.05.23
+<updateversion>
+
+<updatecode>
+0
+<updatecode>
+<Dazzle>

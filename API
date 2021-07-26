@@ -9,7 +9,7 @@ https://api.imjad.cn/cloudmusic/?type=comments&id=
 <Music歌词>
 <song>https://v1.hitokoto.cn/nm/summary/<song>?common=true&lyric=true&quick=true<song>
 <Music歌词>
-<song>https://api.imjad.cn/cloudmusic/?type=lyric&id=<song><song>
+<song>http://music.163.com/api/song/media?id=<song><song>
 <Music歌词>
 <m_pic>
 <song>https://api.imjad.cn/cloudmusic/?type=detail&id=<song><song>

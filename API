@@ -4,7 +4,7 @@ https://api.imjad.cn/cloudmusic/?type=comments&id=
 <MusicId>
 <song>https://autumnfish.cn/search?keywords=<song><song>
 <MusicId>
-<song>https://v1.hitokoto.cn/nm/search/<song>?type=SONG&offset=0&limit=2<song>
+<song>http://music.163.com/api/search/pc?type=1&s=<song><song>
 <MusicId>
 <Music歌词>
 <song>http://music.163.com/api/song/media?id=<song><song>
@@ -14,6 +14,12 @@ https://api.imjad.cn/cloudmusic/?type=comments&id=
 <m_pic>
 <song>https://api.imjad.cn/cloudmusic/?type=detail&id=<song><song>
 <m_pic>
+
+<m_lyrpt>
+..lyric.base
+<m_lyrpt>
+..lyric
+<m_lyrpt>
 
 <Weather>
 <appid>

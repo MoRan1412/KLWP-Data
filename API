@@ -4,19 +4,16 @@ https://api.imjad.cn/cloudmusic/?type=comments&id=
 <MusicId>
 <song>https://netease-cloud-music-api-git-master-2845815262.vercel.app/search?keywords=<song><song>
 <MusicId>
-<song>http://music.163.com/api/search/pc?type=1&s=<song><song>
-<MusicId>
 <Music歌词>
 <song>https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/lyric?id=<song><song>
-<Music歌词>
-<song>http://music.163.com/api/song/media?id=<song><song>
 <Music歌词>
 <m_pic>
 <song>https://api.imjad.cn/cloudmusic/?type=detail&id=<song><song>
 <m_pic>
 
-<m_lyrpt>
-..lyric.base
+<m_idpt>
+.result.songs[0].id
+<m_idpt>
 <m_lyrpt>
 ..lyric
 <m_lyrpt>

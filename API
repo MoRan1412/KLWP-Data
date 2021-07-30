@@ -2,13 +2,13 @@
 https://api.imjad.cn/cloudmusic/?type=comments&id=
 <MusicCommendApi>
 <MusicId>
-<song>https://netease-cloud-music-api-git-master-2845815262.vercel.app/search?keywords=<song><song>
+https://netease-cloud-music-api-git-master-2845815262.vercel.app/search?keywords=
 <MusicId>
 <Music歌词>
-<song>https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/lyric?id=<song><song>
+https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/lyric?id=
 <Music歌词>
 <m_pic>
-<song>https://api.imjad.cn/cloudmusic/?type=detail&id=<song><song>
+https://api.imjad.cn/cloudmusic/?type=detail&id=
 <m_pic>
 
 <m_idpt>

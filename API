@@ -11,6 +11,9 @@ https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/lyric?id=
 https://api.imjad.cn/cloudmusic/?type=detail&id=
 <m_pic>
 
+<m_tlyrpt>
+.tlyric.lyric
+<m_tlyrpt>
 <m_idpt>
 .result.songs[0].id
 <m_idpt>

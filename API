@@ -15,7 +15,7 @@ https://api.imjad.cn/cloudmusic/?type=detail&id=
 .result.songs[0].id
 <m_idpt>
 <m_lyrpt>
-..lyric
+.lrc.lyric
 <m_lyrpt>
 
 <Weather>

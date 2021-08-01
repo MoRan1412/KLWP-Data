@@ -55,6 +55,11 @@ https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/song/detail?ids=
 .tlyric.lyric
 <m_tlyrpt>
 
+网易云音乐歌曲mv接点
+<m_mvpt>
+.songs..mv
+<m_mvpt>
+
 网易云音乐歌曲ID接点
 <m_idpt>
 .result.songs[0].id

@@ -19,9 +19,9 @@ https://netease-cloud-music-api-rose-eta.vercel.app/likelist?uid=<m_uid>&cookie=
 <m_likelist>
 
 获取用户ID
-<m_id>
+<m_userid>
 .account.id
-<m_id>
+<m_userid>
 
 
 

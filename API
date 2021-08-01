@@ -8,6 +8,10 @@ https://netease-cloud-music-api-rose-eta.vercel.app/login?email=<email>&password
 ..cookie
 <Mcookie>
 
+喜欢音乐
+<m_like>
+https://netease-cloud-music-api-rose-eta.vercel.app/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>
+<m_like>
 
 
 

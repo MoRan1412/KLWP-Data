@@ -23,6 +23,11 @@ https://netease-cloud-music-api-rose-eta.vercel.app/likelist?uid=<m_uid>&cookie=
 .account.id
 <m_userid>
 
+网易云每日推荐歌单
+<recommendsongs>
+https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/recommend/resource?cookie=<m_cookie>
+<recommendsongs>
+
 
 
 网易云音乐评论API

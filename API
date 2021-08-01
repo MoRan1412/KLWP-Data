@@ -13,6 +13,16 @@ https://netease-cloud-music-api-rose-eta.vercel.app/login?email=<email>&password
 https://netease-cloud-music-api-rose-eta.vercel.app/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>
 <m_like>
 
+喜欢音乐列表
+<m_likelist>
+https://netease-cloud-music-api-rose-eta.vercel.app/likelist?uid=<m_uid>&cookie=<m_cookie>
+<m_likelist>
+
+获取用户ID
+<m_uid>
+.account.id
+<m_uid>
+
 
 
 网易云音乐评论API

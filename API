@@ -8,11 +8,11 @@ https://api.bilibili.com/x/v3/fav/resource/list?media_id=<media_id>&ps=6
 <bilibili_favlist>
 获取追番
 <bilibili_followlist>
-https://api.bilibili.com/x/space/bangumi/follow/list?vmid=396793759&type=1&jsonp=jsonp
+https://api.bilibili.com/x/space/bangumi/follow/list?vmid=<bilibili_uid>&type=1&jsonp=jsonp
 <bilibili_followlist>
 获取动态
 <bilibili_dynamic>
-https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/space_history?host_uid=396793759&offset_dynamic_id=0
+https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/space_history?host_uid=<bilibili_uid>&offset_dynamic_id=0
 <bilibili_dynamic>
 -------------------------------------------------------------
 网易云邮箱登录

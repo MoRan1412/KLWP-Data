@@ -14,6 +14,10 @@ https://api.bilibili.com/x/space/bangumi/follow/list?vmid=<bilibili_uid>&type=1&
 <bilibili_dynamic>
 https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/space_history?host_uid=<bilibili_uid>&offset_dynamic_id=0
 <bilibili_dynamic>
+获取视频
+<bilibili_video>
+https://api.bilibili.com/x/web-interface/dynamic/region?&jsonp=jsonp&ps=10&rid=1
+<bilibili_video>
 -------------------------------------------------------------
 网易云邮箱登录
 <MusicEmail>

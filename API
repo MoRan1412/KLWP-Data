@@ -49,7 +49,15 @@ https://netease-cloud-music-api-rose-eta.vercel.app/likelist?uid=<m_uid>&cookie=
 https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/recommend/resource?cookie=<m_cookie>
 <recommendsongs>
 
+歌曲MV下载地址
+<MusicMVDownload>
+https://netease-cloud-music-api-rose-eta.vercel.app/mv/url?id=<m_id>&cookie=<m_cookie>
+<MusicMVDownload>
 
+歌曲下载
+<MusicDownload>
+https://netease-cloud-music-api-rose-eta.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>
+<MusicDownload>
 
 网易云音乐评论API
 <MusicCommendApi>

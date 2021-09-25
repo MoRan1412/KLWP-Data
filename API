@@ -61,7 +61,7 @@ https://netease-cloud-music-api-rose-eta.vercel.app/song/url?id=<m_id>&cookie=<m
 
 网易云音乐评论API
 <MusicCommendApi>
-https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/music?id=
+https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>
 <MusicCommendApi>
 
 网易云音乐歌曲ID_API

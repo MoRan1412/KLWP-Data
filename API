@@ -66,7 +66,7 @@ https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/music?id
 
 歌曲评论点赞
 <M_CommentId>
-https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0
+https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>
 <M_CommentId>
 
 用户播放记录

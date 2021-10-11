@@ -116,7 +116,7 @@ https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/song/detail?ids=
 -------------------------------------------------------------------
 <Weather>
 <appid>
-78652171
+44423198
 <appid>
 
 <tianqiapi_v63>
@@ -132,10 +132,11 @@ https://v0.yiketianqi.com/api?version=v10&appid=<tianqiapi_appid>&appsecret=<tia
 <tianqiapi_airindex>
 
 <appsecret>
-cmf1qa08
+WYj7DxXH
 <appsecret>
 <Weather>
 -------------------------------------------------------------------
+<SILK>
 <update>
 ***更新内容***/
 优化B站追番/
@@ -143,10 +144,6 @@ cmf1qa08
 删除不需要的内容/
 (文件大小:24mb~3mb)
 <update>
-
-<build>
-1
-<build>
 
 <updateversion>
 v2021.05.07
@@ -179,6 +176,7 @@ https://www.ooklibaioo.com/ken/Weather_imgs/qiu.jpg
 <dong>
 https://www.ooklibaioo.com/ken/Weather_imgs/dong.jpg
 <dong>
+<SILK>
 ------------------------------------------------------------
 <Dazzle>
 <update>

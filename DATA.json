@@ -33,7 +33,7 @@
                 "Commend":"https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>",
                 "CommentLike":"https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>",
                 "Record":"https://netease-cloud-music-api-rose-eta.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1",
-                "MusicSearch":"https://netease-cloud-music-api-git-master-2845815262.vercel.app/search?keywords=",
+                "MusicSearch":"https://netease-cloud-music-api-rose-eta.vercel.app/cloudsearch?keywords=",
                 "Lyric":"https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/lyric?id=",
                 "MusicData":"https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/song/detail?ids="
             },

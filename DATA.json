@@ -35,6 +35,7 @@
                 "Record":"https://ooklibaioomusic163.herokuapp.com/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1",
                 "MusicSearch":"https://ooklibaioomusic163.herokuapp.com/cloudsearch?type=1&keywords=",
                 "Lyric":"https://ooklibaioomusic163.herokuapp.com/lyric?id=",
+                "AccountDetail":"https://ooklibaioomusic163.herokuapp.com/user/detail?uid=1348655559&cookie=<m_cookie>",
                 "MusicData":"https://ooklibaioomusic163.herokuapp.com/song/detail?ids="
             },
             "pt":

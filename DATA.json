@@ -51,6 +51,10 @@
                 "mv":".songs..mv"
             }
         },
+        "Otherapi":
+          {
+              "aqi":"http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>"
+          },
         "SILK":
         {
             "Update":

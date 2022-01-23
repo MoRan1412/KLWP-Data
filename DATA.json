@@ -9,6 +9,13 @@
           "appsecret":"ExwAdPF7",
           "appid":"74338272"
         },
+        "tianapi":
+        {
+            "weather":
+            {
+                "AQI":"http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>"
+            }
+        },
         "bilibili":
         {
             "api":
@@ -78,7 +85,6 @@
         },
         "Otherapi":
         {
-            "aqi":"http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",
             "RandomPhoto":
             {
                 "RD1":"https://source.unsplash.com/random",

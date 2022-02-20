@@ -29,23 +29,23 @@
         },
         "163music":
         {
-        "api":	
-	{
-	"MusicEmail":"https://music163-two.vercel.app/login?email=<email>&password=<password>",
-	"like":"https://music163-two.vercel.app/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>",
-	"likelist":"https://music163-two.vercel.app/likelist?uid=<m_uid>&cookie=<m_cookie>",
-	"Recommendsongs":"https://music163-two.vercel.app/recommend/resource?cookie=<m_cookie>",
-	"MVDownload":"https://music163-two.vercel.app/mv/url?id=<m_id>&cookie=<m_cookie>",
-	"MusicDownload":"https://music163-two.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>",
-	"Commend":"https://music163-two.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>",
-	"CommentLike":"https://music163-two.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>",
-	"Record":"https://music163-two.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1",
-	"MusicSearch":"https://music163-two.vercel.app/cloudsearch?type=1&keywords=",
-	"Lyric":"https://music163-two.vercel.app/lyric?id=",
-	"AccountDetail":"https://music163-two.vercel.app/user/detail?uid=1348655559&cookie=<m_cookie>",
-	"Toplist":"https://music163-two.vercel.app/toplist",
-	"Playlist":"https://music163-two.vercel.app/playlist/detail?id=<playlist_id>",
-	"MusicData":"https://music163-two.vercel.app/song/detail?ids="
+           "api":	
+	   {
+	        "MusicEmail":"https://music163-two.vercel.app/login?email=<email>&password=<password>",
+	        "like":"https://music163-two.vercel.app/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>",
+	        "likelist":"https://music163-two.vercel.app/likelist?uid=<m_uid>&cookie=<m_cookie>",
+	        "Recommendsongs":"https://music163-two.vercel.app/recommend/resource?cookie=<m_cookie>",
+	        "MVDownload":"https://music163-two.vercel.app/mv/url?id=<m_id>&cookie=<m_cookie>",
+	        "MusicDownload":"https://music163-two.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>",
+	        "Commend":"https://music163-two.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>",
+	        "CommentLike":"https://music163-two.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>",
+      	        "Record":"https://music163-two.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1",
+	        "MusicSearch":"https://music163-two.vercel.app/cloudsearch?type=1&keywords=",
+	        "Lyric":"https://music163-two.vercel.app/lyric?id=",
+	        "AccountDetail":"https://music163-two.vercel.app/user/detail?uid=1348655559&cookie=<m_cookie>",
+	        "Toplist":"https://music163-two.vercel.app/toplist",
+	        "Playlist":"https://music163-two.vercel.app/playlist/detail?id=<playlist_id>",
+	        "MusicData":"https://music163-two.vercel.app/song/detail?ids="
             },
             "pt":
             {

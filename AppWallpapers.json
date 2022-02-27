@@ -4,13 +4,17 @@
       "author": "p1",
       "url": "https://www.ooklibaioo.com/ken/Wallpapers/p1.jpg",
       "name": "p1",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p1.jpg"
+      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p1.jpg",
+      "collections": "p1",
+      "copyright": "p1"
     },
     {
       "author": "p2",
       "url": "https://www.ooklibaioo.com/ken/Wallpapers/p2.jpg",
       "name": "p2",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p2.jpg"
+      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p2.jpg",
+      "collections": "p2",
+      "copyright": "p2"
     },
     {
       "author": "p3",

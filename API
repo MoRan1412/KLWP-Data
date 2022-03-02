@@ -21,7 +21,7 @@ https://api.bilibili.com/x/web-interface/dynamic/region?&jsonp=jsonp&ps=10&rid=1
 -------------------------------------------------------------
 网易云邮箱登录
 <MusicEmail>
-https://netease-cloud-music-api-rose-eta.vercel.app/login?email=<email>&password=<password>
+https://music163-two.vercel.app/login?email=<email>&password=<password>
 <MusicEmail>
 
 获取cookie
@@ -61,7 +61,7 @@ https://netease-cloud-music-api-rose-eta.vercel.app/song/url?id=<m_id>&cookie=<m
 
 网易云音乐评论API
 <MusicCommendApi>
-https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>
+https://music163-two.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>
 <MusicCommendApi>
 
 歌曲评论点赞
@@ -76,17 +76,17 @@ https://netease-cloud-music-api-rose-eta.vercel.app/user/record?uid=<m_uid>&cook
 
 网易云音乐歌曲ID_API
 <MusicId>
-https://netease-cloud-music-api-git-master-2845815262.vercel.app/search?keywords=
+https://music163-two.vercel.app/cloudsearch?type=1&keywords=
 <MusicId>
 
 网易云音乐歌词API
 <Music歌词>
-https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/lyric?id=
+https://music163-two.vercel.app/lyric?id=
 <Music歌词>
 
 网易云音乐歌曲信息API
 <m_pic>
-https://netease-cloud-music-api-dxtqnn8j5-2845815262.vercel.app/song/detail?ids=
+https://music163-two.vercel.app/song/detail?ids=
 <m_pic>
 
 网易云音乐歌词翻译接点

@@ -11,22 +11,24 @@
 		"name": "p2",
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p2.jpg",
+                "dimensions": "3476x6192",
+		"copyright": "Unknown",
 		"collections": "Animation"
 	},
 	{
 		"name": "p3",
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p3.jpg",
-		"dimensions": "3200x2560",
-		"collections": "Animation",
-		"downloadable": false
+		"dimensions": "1201x1955",
+		"copyright": "Unknown",
+		"collections": "Animation"
 	},
 	{
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p4.jpg",
 		"name": "p4",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
+		"dimensions": "1201x1721",
+		"copyright": "unknown",
 		"collections": "Animation"
 	},
 	{
@@ -34,18 +36,17 @@
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p5.jpg",
 		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p5.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "Animation",
-		"featured": true
+		"dimensions": "1201x2493",
+		"copyright": "unknown",
+		"collections": "Animation"
 	},
 	{
 		"name": "p6",
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p6.jpg",
 		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p6.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
+		"dimensions": "1200x1698",
+		"copyright": "unknown",
 		"collections": "Animation"
 	},
 	{
@@ -53,8 +54,8 @@
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p7.jpg",
 		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p7.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
+		"dimensions": "1202x1919",
+		"copyright": "unknown",
 		"collections": "Animation"
 	},
 	{
@@ -62,8 +63,8 @@
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p8.jpg",
 		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p8.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
+		"dimensions": "1201x2085",
+		"copyright": "unknown",
 		"collections": "Animation"
 	}
 ]

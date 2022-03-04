@@ -1,124 +1,141 @@
-{
-  "wallpapers": [
-    {
-      "name": "p1",
-      "author": "p1",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p1.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p1.jpg",
-      "collections": "p1",
-      "copyright": "p1"
-    },
-    {
-      "name": "p2",
-      "author": "p2",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p2.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p2.jpg",
-      "collections": "p2",
-      "copyright": "p2"
-    },
-    {
-      "name": "p3",
-      "author": "p3",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p3.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p3.jpg",
-      "collections": "p3",
-      "copyright": "p3"
-    },
-    {
-      "name": "p4",
-      "author": "p4",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p4.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p4.jpg",
-      "collections": "p4",
-      "copyright": "p4"
-    },
-    {
-      "name": "p5",
-      "author": "p5",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p5.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p5.jpg",
-      "collections": "p5",
-      "copyright": "p5"
-    }, 
-    {
-      "name": "p6",
-      "author": "p6",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p6.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p6.jpg",
-      "collections": "p6",
-      "copyright": "p6"
-    }, 
-    {
-      "name": "p7",
-      "author": "p7",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p7.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p7.jpg",
-      "collections": "p7",
-      "copyright": "p7"
-    }, 
-    {
-      "name": "p8",
-      "author": "p8",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p8.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p8.jpg",
-      "collections": "p8",
-      "copyright": "p8"
-    },
-  	{
-      "name": "p9",
-      "author": "p9",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p9.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p9.jpg",
-      "collections": "p9",
-      "copyright": "p9"
-    },
-  	{
-      "name": "p10",
-      "author": "p10",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p10.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p10.jpg",
-      "collections": "p10",
-      "copyright": "p10"
-    },
-  	{
-      "name": "p11",
-      "author": "p11",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p11.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p11.jpg",
-      "collections": "p11",
-      "copyright": "p11"
-    },
-  	{
-      "name": "p12",
-      "author": "p12",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p12.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p12.jpg",
-      "collections": "p12",
-      "copyright": "p12"
-    },
-	  {
-      "name": "p13",
-      "author": "p13",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p13.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p13.jpg",
-      "collections": "p13",
-      "copyright": "p13"
-    },
-  	{
-      "name": "p14",
-      "author": "p14",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p14.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p14.jpg",
-      "collections": "p14",
-      "copyright": "p14"
-    },
-  	{
-      "name": "p15",
-      "author": "p15",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p15.jpg",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p15.jpg",
-      "collections": "p15",
-      "copyright": "p15"
-    }
-  ]
-}
+[{
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+	{
+		"name": "ShotA",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+		"collections": "featured,landscapes,people"
+	},
+	{
+		"name": "ShotB",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+		"dimensions": "3200x2560",
+		"collections": "people,city",
+		"downloadable": false
+	},
+	{
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+		"name": "ShotC",
+		"dimensions": "1280x720",
+		"copyright": "Credits to its creator",
+		"collections": "landscapes,city"
+	},
+	{
+		"name": "Wallsplash 1",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+	{
+		"name": "Wallsplash 2",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "Wallsplash 3",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+		"thumbnail": "https://via.placeholder.com/450",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wallsplash 4",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wallsplash 5",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wallsplash 6",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wallsplash 7",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+		"thumbnail": "https://via.placeholder.com/500",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wallsplash 8",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+		"thumbnail": "https://via.placeholder.com/150",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+	{
+		"name": "Halloween 1",
+		"author": "wallsplash",
+		"url": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=david-menidrey-MYRG0ptGh50-unsplash.jpg&w=640",
+		"thumbnail": "https://via.placeholder.com/150",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "halloween"
+	},
+	{
+		"name": "New Halloween",
+		"author": "wallsplash",
+		"url": "https://images.unsplash.com/photo-1592887714077-1c2ca9cdcf48?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=vino-li-W1py5swbJZY-unsplash.jpg&w=640",
+		"thumbnail": "https://via.placeholder.com/150",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "halloween, new year"
+	},
+	{
+		"name": "New Year",
+		"author": "wallsplash",
+		"url": "https://images.unsplash.com/photo-1546271876-af6caec5fae5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andreas-dress-OUSa9MU4zZc-unsplash.jpg&w=640",
+		"thumbnail": "https://via.placeholder.com/150",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "new year, new"
+	}
+]

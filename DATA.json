@@ -87,6 +87,10 @@
                 "Content":"①添加更新提醒"
             }
         },
+        "QUALITYBuild":
+        {
+            "Test":"1"
+        },
         "Dazzle":
         {
             "Update":

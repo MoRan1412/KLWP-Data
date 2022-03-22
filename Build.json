@@ -3,7 +3,8 @@
       {
         "Zero":
         {
-          "DataApi":"https://raw.githubusercontent.com/2845815262/ken/main/DATA.json"
+          "DataApi":"https://raw.githubusercontent.com/2845815262/ken/main/DATA.json",
+          "EndDate":"2022/3/29"
         }
       }
 }

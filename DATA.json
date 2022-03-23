@@ -51,7 +51,7 @@
 	            "Toplist":"https://klibaimusic163.herokuapp.com/toplist",
 	            "Playlist":"https://klibaimusic163.herokuapp.com/playlist/detail?id=<playlist_id>",
 	            "MusicData":"https://klibaimusic163.herokuapp.com/song/detail?ids=",
-                    "Share":"https://klibaimusic163.herokuapp.com/share/resource?id=<m_id>&type=<m_type>&msg=<share_msg>&cookie=<m_cookie>"
+                    "UserSongList":"https://klibaimusic163.herokuapp.com/user/playlist?uid=<m_uid>&cookie=<m_cookie>"
             },
             "pt":
             {

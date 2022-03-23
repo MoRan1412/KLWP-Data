@@ -50,7 +50,8 @@
 	            "AccountDetail":"https://klibaimusic163.herokuapp.com/user/detail?uid=1348655559&cookie=<m_cookie>",
 	            "Toplist":"https://klibaimusic163.herokuapp.com/toplist",
 	            "Playlist":"https://klibaimusic163.herokuapp.com/playlist/detail?id=<playlist_id>",
-	            "MusicData":"https://klibaimusic163.herokuapp.com/song/detail?ids="
+	            "MusicData":"https://klibaimusic163.herokuapp.com/song/detail?ids=",
+                    "Share":"https://klibaimusic163.herokuapp.com/share/resource?id=<m_id>&type=<m_type>&msg=测试"
             },
             "pt":
             {

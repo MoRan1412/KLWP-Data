@@ -80,6 +80,14 @@
                 "dong":"https://www.ooklibaioo.com/ken/Weather_imgs/dong.jpg"
             }
         },
+	"ZERO":
+        {
+            "Update":
+            {
+                "Version":"1.0.2",
+                "Content":"①添加更新提醒<br>①添加更新提醒"
+            }
+        },
         "QUALITY":
         {
             "Update":

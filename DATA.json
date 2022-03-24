@@ -70,7 +70,7 @@
             {
                 "Version":"Re_1.0",
                 "Code":"0",
-                "Content":"No_Data"
+                "Content":"<p>...</p>"
             },
             "WeaImg":
             {
@@ -85,7 +85,10 @@
             "Update":
             {
                 "Version":"1.0.2",
-                "Content":"<p>①添加更新提醒</p><p>①添加更新提醒</p>"
+                "Content":"<p>①音乐页添加展开更多功能</p>
+                           <p>②歌曲评论切换页数按钮</p>
+                           <p>③日历添加展开更多功能</p>
+                           <p>④...</p>"
             }
         },
         "QUALITY":
@@ -106,7 +109,7 @@
             {
                 "Version":"Re_1.0",
                 "Code":"0",
-                "Content":"No_Data"
+                "Content":"<p>...</p>"
             }
         },
         "Otherapi":

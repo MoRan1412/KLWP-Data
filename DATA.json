@@ -40,22 +40,22 @@
         {
            "api":	
 	        {
-	            "MusicEmail":"https://klibaimusic163.herokuapp.com/login?email=<email>&password=<password>",	
-	            "like":"https://klibaimusic163.herokuapp.com/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>",
-	            "likelist":"https://klibaimusic163.herokuapp.com/likelist?uid=<m_uid>&cookie=<m_cookie>",
-	            "Recommendsongs":"https://klibaimusic163.herokuapp.com/recommend/resource?cookie=<m_cookie>",
-	            "MVDownload":"https://klibaimusic163.herokuapp.com/mv/url?id=<m_id>&cookie=<m_cookie>",
-	            "MusicDownload":"https://klibaimusic163.herokuapp.com/song/url?id=<m_id>&cookie=<m_cookie>",
-	            "Commend":"https://klibaimusic163.herokuapp.com/comment/music?id=<m_id>&cookie=<m_cookie>",
-	            "CommentLike":"https://klibaimusic163.herokuapp.com/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>",
-	            "Record":"https://klibaimusic163.herokuapp.com/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1",
-	            "MusicSearch":"https://klibaimusic163.herokuapp.com/cloudsearch?type=1&keywords=",
-	            "Lyric":"https://klibaimusic163.herokuapp.com/lyric?id=",
-	            "AccountDetail":"https://klibaimusic163.herokuapp.com/user/detail?uid=1348655559&cookie=<m_cookie>",
-	            "Toplist":"https://klibaimusic163.herokuapp.com/toplist",
-	            "Playlist":"https://klibaimusic163.herokuapp.com/playlist/detail?id=<playlist_id>",
-	            "MusicData":"https://klibaimusic163.herokuapp.com/song/detail?ids=",
-                    "UserSongList":"https://klibaimusic163.herokuapp.com/user/playlist?uid=<m_uid>&cookie=<m_cookie>"
+	            "MusicEmail":"https://music163-pearl.vercel.app/login?email=<email>&password=<password>",	
+	            "like":"https://music163-pearl.vercel.app/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>",
+	            "likelist":"https://music163-pearl.vercel.app/likelist?uid=<m_uid>&cookie=<m_cookie>",
+	            "Recommendsongs":"https://music163-pearl.vercel.app/recommend/resource?cookie=<m_cookie>",
+	            "MVDownload":"https://music163-pearl.vercel.app/mv/url?id=<m_id>&cookie=<m_cookie>",
+	            "MusicDownload":"https://music163-pearl.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>",
+	            "Commend":"https://music163-pearl.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>",
+	            "CommentLike":"https://music163-pearl.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>",
+	            "Record":"https://music163-pearl.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1",
+	            "MusicSearch":"https://music163-pearl.vercel.app/cloudsearch?type=1&keywords=",
+	            "Lyric":"https://music163-pearl.vercel.app/lyric?id=",
+	            "AccountDetail":"https://music163-pearl.vercel.app/user/detail?uid=1348655559&cookie=<m_cookie>",
+	            "Toplist":"https://music163-pearl.vercel.app/toplist",
+	            "Playlist":"https://music163-pearl.vercel.app/playlist/detail?id=<playlist_id>",
+	            "MusicData":"https://music163-pearl.vercel.app/song/detail?ids=",
+                    "UserSongList":"https://music163-pearl.vercel.app/user/playlist?uid=<m_uid>&cookie=<m_cookie>"
             },
             "pt":
             {

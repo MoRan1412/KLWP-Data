@@ -51,7 +51,7 @@
 	            "Record":"https://music163-pearl.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1",
 	            "MusicSearch":"https://music163-pearl.vercel.app/cloudsearch?type=1&keywords=",
 	            "Lyric":"https://music163-pearl.vercel.app/lyric?id=",
-	            "AccountDetail":"https://music163-pearl.vercel.app/user/detail?uid=1348655559&cookie=<m_cookie>",
+	            "AccountDetail":"https://music163-pearl.vercel.app/user/detail?uid=<m_uid>&cookie=<m_cookie>",
 	            "Toplist":"https://music163-pearl.vercel.app/toplist",
 	            "Playlist":"https://music163-pearl.vercel.app/playlist/detail?id=<playlist_id>",
 	            "MusicData":"https://music163-pearl.vercel.app/song/detail?ids=",

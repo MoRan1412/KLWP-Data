@@ -84,25 +84,17 @@
                 "dong":"https://www.ooklibaioo.com/ken/Weather_imgs/dong.jpg"
             }
         },
-	"ZERO":
+	    "ZERO":
         {
             "Update":
             {
-                "Version":"1.0.2",
-                "Content":"<p>①音乐及日历页添加展开更多功能</p><p>②歌曲评论切换页数按钮</p><p>③修复天气页的图标</p><p>④添加背景壁纸模式</p><p>⑤修复电量图标</p>"
-            }
-        },
-        "QUALITY":
-        {
-            "Update":
-            {
-                "Version":"1.0.2",
-                "Content":"①添加更新提醒"
+                "Version":"1.0.4",
+                "Content":"<p>①设置、应用及新闻界面改版</p><p>②修复天气卡片问题</p><p>④添加背景壁纸模式</p>"
             }
         },
         "QUALITYBuild":
         {
-            "Test":"1"
+            "Test":"0"
         },
         "Dazzle":
         {

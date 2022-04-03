@@ -72,9 +72,9 @@
         {
             "Update":
             {
-                "Version":"Re_1.0",
-                "Code":"0",
-                "Content":"<p>...</p>"
+                "Version":"1.0.0",
+                "Code":"1",
+                "Content":"<p>1,更改获取数据的源</p><p>2,添加动画速度调节</p>"
             },
             "WeaImg":
             {

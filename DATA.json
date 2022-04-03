@@ -22,7 +22,8 @@
 	    },
             "weather":
             {
-                "AQI":"http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>"
+                "AQI":"http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",
+                "tianqi":"http://api.tianapi.com/tianqi/index?key=de55d9363c71e6cbdf9368a5367a2936&city=<city>"
             }
         },
         "bilibili":

@@ -78,10 +78,10 @@
             },
             "WeaImg":
             {
-                "chun":"https://www.ooklibaioo.com/ken/Weather_imgs/chun.jpg",
-                "xia":"https://www.ooklibaioo.com/ken/Weather_imgs/xia.jpg",
-                "qiu":"https://www.ooklibaioo.com/ken/Weather_imgs/qiu.jpg",
-                "dong":"https://www.ooklibaioo.com/ken/Weather_imgs/dong.jpg"
+                "chun":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/chun.jpg",
+                "xia":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/xia.jpg",
+                "qiu":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/qiu.jpg",
+                "dong":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/dong.jpg"
             }
         },
 	    "ZERO":

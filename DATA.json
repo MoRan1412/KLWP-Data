@@ -79,10 +79,10 @@
             },
             "WeaImg":
             {
-                "chun":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/chun.jpg",
-                "xia":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/xia.jpg",
-                "qiu":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/qiu.jpg",
-                "dong":"https://gitee.com/ken-cheng/ken/raw/main/Weather_imgs/dong.jpg"
+                "chun":"https://wx2.sinaimg.cn/large/005JXbcjgy1h114x8o9svj31jk13ahct.jpg",
+                "xia":"https://wx1.sinaimg.cn/large/005JXbcjgy1h114xcyelej31z41ec1kd.jpg",
+                "qiu":"https://wx1.sinaimg.cn/large/005JXbcjgy1h114xbqt91j32yo1o0x6p.jpg",
+                "dong":"https://wx1.sinaimg.cn/large/005JXbcjgy1h114x9xs0hj31vk1684p7.jpg"
             }
         },
 	    "ZERO":

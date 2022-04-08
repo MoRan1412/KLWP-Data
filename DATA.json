@@ -18,7 +18,8 @@
             },
 	    "cal":
 	    {
-                "lunar":"http://api.tianapi.com/lunar/index?key=de55d9363c71e6cbdf9368a5367a2936&date=<date>"
+                "lunar":"http://api.tianapi.com/lunar/index?key=de55d9363c71e6cbdf9368a5367a2936&date=<date>",
+		"star":"http://api.tianapi.com/star/index?key=de55d9363c71e6cbdf9368a5367a2936&astro=<astro>"
 	    },
             "weather":
             {

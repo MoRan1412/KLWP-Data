@@ -1,25 +1,23 @@
 name: Docker Image CI
-on:
-  workflow_dispatch:
+
+on: [push, pull_request] # 触发事件
+
 jobs:
-  build:
+  bt-product-release:
+    if: ${{ github.ref == 'refs/heads/main' }}  # 检测main分支是否有更新
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up JDK 1.8
-        uses: actions/setup-java@v1
-        with:
-          java-version: 1.8
-      - name: Build with Maven
-        run: mvn clean package -DskipTests
-
-      - name: Build the Docker image
-        run: |
-          docker version
-          # 登录阿里云镜像仓库
-          docker login --username=${{ secrets.DOCKER_USERNAME }} --password=${{ secrets.DOCKER_PASSWORD }} registry.cn-hangzhou.aliyuncs.com
-          cd ken
-          # 使用Dockerfile构建镜像
-          docker build . --file Dockerfile --tag registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:1.0.0
-          # 推送镜像到镜像仓库
-          docker push registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:1.0.0
+    - uses: actions/checkout@v2 # pull代码到运行服务器上
+    - name: Login to Aliyun Container Registry (ACR)
+      uses: aliyun/acr-login@v1 # 使用阿里云镜像服务action
+      with:
+        login-server: registry.cn-shanghai.aliyuncs.com # 务必正确填写镜像容器服务的登录地址
+        region-id: cn-shanghai # 务必正确填写镜像容器服务的登录地址
+        username: "${{ secrets.DOCKER_USERNAME }}" # 引用GitHub repo设置的镜像容器服务用户名
+        password: "${{ secrets.DOCKER_PASSWORD }}" # 引用GitHub repo设置的镜像容器服务密码
+    - name: Build and Push Docker Image
+      env:
+        IMAGE_TAG: ${{ github.sha }} # 用于标记容器版本号
+      run: |
+        docker tag ooklibaioo registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:1.0.0
+        docker push registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:1.0.0

@@ -19,5 +19,5 @@ jobs:
       env:
         IMAGE_TAG: ${{ github.sha }} # 用于标记容器版本号
       run: |
-        docker tag ooklibaioo registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:1.0.0
-        docker push registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:1.0.0
+        docker tag ooklibaioo registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:latest
+        docker push registry.cn-hangzhou.aliyuncs.com/ooklibaioo/ken:latest

@@ -31,12 +31,17 @@
         {
             "api":
             {
+		"userdata":"https://api.bilibili.com/x/space/acc/info?mid=<bilibili_uid>",
                 "favfolder":"https://api.bilibili.com/x/v3/fav/folder/created/list-all?up_mid=<bilibili_uid>",
                 "favlist":"https://api.bilibili.com/x/v3/fav/resource/list?media_id=<media_id>&ps=6",
                 "followlist":"https://api.bilibili.com/x/space/bangumi/follow/list?vmid=<bilibili_uid>&type=1&jsonp=jsonp",
                 "dynamic":"https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/space_history?host_uid=<bilibili_uid>&offset_dynamic_id=0",
                 "video":"https://api.bilibili.com/x/web-interface/dynamic/region?&jsonp=jsonp&ps=10&rid=1"
-            }
+            },
+	    "pt"
+	    {
+		"username":".data.name"
+	    }
         },
         "163music":
         {

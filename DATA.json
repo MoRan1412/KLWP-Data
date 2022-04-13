@@ -9,7 +9,8 @@
           "appsecret":"C3CHZGA9",
           "appid":"81943679",
 	  "hefeng_hour":"https://devapi.qweather.com/v7/weather/24h?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
-	  "hefeng_wea":"https://devapi.qweather.com/v7/weather/now?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc"
+	  "hefeng_wea":"https://devapi.qweather.com/v7/weather/now?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
+	  "hefeng_city":"https://geoapi.qweather.com/v2/city/lookup?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc"
         },
         "tianapi":
         {

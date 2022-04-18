@@ -98,8 +98,8 @@
         {
             "Update":
             {
-                "Version":"1.0.9",
-                "Content":"<p>1.新增点击头像检测更新等</p>"
+                "Version":"1.1.0",
+                "Content":"<p>1.改良适配屏幕和圆角问题</p>"
             }
         },
         "Dazzle":

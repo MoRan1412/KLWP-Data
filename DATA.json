@@ -65,6 +65,7 @@
 	            "Toplist":"https://163music-ooklibaioo.vercel.app/toplist&realIP=<ip>",
 	            "Playlist":"https://163music-ooklibaioo.vercel.app/playlist/detail?id=<playlist_id>&realIP=<ip>",
 	            "MusicData":"https://163music-ooklibaioo.vercel.app/song/detail?realIP=<ip>&ids=",
+                "LoginState":"https://music163-pearl.vercel.app/login/refresh",
                 "UserSongList":"https://163music-ooklibaioo.vercel.app/user/playlist?uid=<m_uid>&cookie=<m_cookie>&realIP=<ip>"
             },
             "pt":

@@ -121,6 +121,7 @@
         },
         "Otherapi":
         {
+            "MYIP":"https://api.ip.sb/jsonip?callback=myip",
             "RandomPhoto":
             {
                 "RD1":"https://source.unsplash.com/random",

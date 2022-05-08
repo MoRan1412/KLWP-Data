@@ -50,22 +50,22 @@
         {
            "api":	
 	        {
-	            "MusicEmail":"https://163music-ooklibaioo.vercel.app/login?email=<email>&password=<password>&realIP=116.25.146.177",	
-	            "like":"https://163music-ooklibaioo.vercel.app/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>&realIP=116.25.146.177",
-	            "likelist":"https://163music-ooklibaioo.vercel.app/likelist?uid=<m_uid>&cookie=<m_cookie>&realIP=116.25.146.177",
-	            "Recommendsongs":"https://163music-ooklibaioo.vercel.app/recommend/resource?cookie=<m_cookie>&realIP=116.25.146.177",
-	            "MVDownload":"https://163music-ooklibaioo.vercel.app/mv/url?id=<m_id>&cookie=<m_cookie>&realIP=116.25.146.177",
-	            "MusicDownload":"https://163music-ooklibaioo.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>&realIP=116.25.146.177",
-	            "Commend":"https://163music-ooklibaioo.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>&realIP=116.25.146.177",
-	            "CommentLike":"https://163music-ooklibaioo.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>&realIP=116.25.146.177",
-	            "Record":"https://163music-ooklibaioo.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1&realIP=116.25.146.177",
-	            "MusicSearch":"https://163music-ooklibaioo.vercel.app/cloudsearch?type=1&realIP=116.25.146.177&keywords=",
-	            "Lyric":"https://163music-ooklibaioo.vercel.app/lyric?realIP=116.25.146.177&id=",
-	            "AccountDetail":"https://163music-ooklibaioo.vercel.app/user/detail?uid=<m_uid>&cookie=<m_cookie>&realIP=116.25.146.177",
-	            "Toplist":"https://163music-ooklibaioo.vercel.app/toplist&realIP=116.25.146.177",
-	            "Playlist":"https://163music-ooklibaioo.vercel.app/playlist/detail?id=<playlist_id>&realIP=116.25.146.177",
-	            "MusicData":"https://163music-ooklibaioo.vercel.app/song/detail?realIP=116.25.146.177&ids=",
-                "UserSongList":"https://163music-ooklibaioo.vercel.app/user/playlist?uid=<m_uid>&cookie=<m_cookie>&realIP=116.25.146.177"
+	            "MusicEmail":"https://163music-ooklibaioo.vercel.app/login?email=<email>&password=<password>&realIP=103.37.141.69",	
+	            "like":"https://163music-ooklibaioo.vercel.app/like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>&realIP=103.37.141.69",
+	            "likelist":"https://163music-ooklibaioo.vercel.app/likelist?uid=<m_uid>&cookie=<m_cookie>&realIP=103.37.141.69",
+	            "Recommendsongs":"https://163music-ooklibaioo.vercel.app/recommend/resource?cookie=<m_cookie>&realIP=103.37.141.69",
+	            "MVDownload":"https://163music-ooklibaioo.vercel.app/mv/url?id=<m_id>&cookie=<m_cookie>&realIP=103.37.141.69",
+	            "MusicDownload":"https://163music-ooklibaioo.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>&realIP=103.37.141.69",
+	            "Commend":"https://163music-ooklibaioo.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>&realIP=103.37.141.69",
+	            "CommentLike":"https://163music-ooklibaioo.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>&realIP=103.37.141.69",
+	            "Record":"https://163music-ooklibaioo.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1&realIP=103.37.141.69",
+	            "MusicSearch":"https://163music-ooklibaioo.vercel.app/cloudsearch?type=1&realIP=103.37.141.69&keywords=",
+	            "Lyric":"https://163music-ooklibaioo.vercel.app/lyric?realIP=103.37.141.69&id=",
+	            "AccountDetail":"https://163music-ooklibaioo.vercel.app/user/detail?uid=<m_uid>&cookie=<m_cookie>&realIP=103.37.141.69",
+	            "Toplist":"https://163music-ooklibaioo.vercel.app/toplist&realIP=103.37.141.69",
+	            "Playlist":"https://163music-ooklibaioo.vercel.app/playlist/detail?id=<playlist_id>&realIP=103.37.141.69",
+	            "MusicData":"https://163music-ooklibaioo.vercel.app/song/detail?realIP=103.37.141.69&ids=",
+                "UserSongList":"https://163music-ooklibaioo.vercel.app/user/playlist?uid=<m_uid>&cookie=<m_cookie>&realIP=103.37.141.69"
             },
             "pt":
             {

@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"name": "p1",
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p1.jpg",
@@ -11,7 +12,7 @@
 		"name": "p2",
 		"author": "unknown",
 		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p2.jpg",
-                "dimensions": "3476x6192",
+		"dimensions": "3476x6192",
 		"copyright": "Unknown",
 		"collections": "Animation"
 	},
@@ -67,67 +68,67 @@
 		"copyright": "unknown",
 		"collections": "Animation"
 	},
-        {
-                "author": "p9",
-                "url": "https://www.ooklibaioo.com/ken/Wallpapers/p9.jpg",
-                "name": "p9",
-                "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p9.jpg",
-                "dimensions": "1201x2085",
-		"copyright": "unknown",
-		"collections": "Animation"
-        },
 	{
-      "author": "p10",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p10.jpg",
-      "name": "p10",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p10.jpg",
+		"author": "p9",
+		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p9.jpg",
+		"name": "p9",
+		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p9.jpg",
 		"dimensions": "1201x2085",
 		"copyright": "unknown",
 		"collections": "Animation"
-    },
+	},
 	{
-      "author": "p11",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p11.jpg",
-      "name": "p11",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p11.jpg",
+		"author": "p10",
+		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p10.jpg",
+		"name": "p10",
+		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p10.jpg",
 		"dimensions": "1201x2085",
 		"copyright": "unknown",
 		"collections": "Animation"
-    },
+	},
 	{
-      "author": "p12",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p12.jpg",
-      "name": "p12",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p12.jpg",
+		"author": "p11",
+		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p11.jpg",
+		"name": "p11",
+		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p11.jpg",
 		"dimensions": "1201x2085",
 		"copyright": "unknown",
 		"collections": "Animation"
-    },
+	},
 	{
-      "author": "p13",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p13.jpg",
-      "name": "p13",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p13.jpg",
+		"author": "p12",
+		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p12.jpg",
+		"name": "p12",
+		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p12.jpg",
 		"dimensions": "1201x2085",
 		"copyright": "unknown",
 		"collections": "Animation"
-    },
+	},
 	{
-      "author": "p14",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p14.jpg",
-      "name": "p14",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p14.jpg",
+		"author": "p13",
+		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p13.jpg",
+		"name": "p13",
+		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p13.jpg",
 		"dimensions": "1201x2085",
 		"copyright": "unknown",
 		"collections": "Animation"
-    },
+	},
 	{
-      "author": "p15",
-      "url": "https://www.ooklibaioo.com/ken/Wallpapers/p15.jpg",
-      "name": "p15",
-      "thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p15.jpg",
+		"author": "p14",
+		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p14.jpg",
+		"name": "p14",
+		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p14.jpg",
 		"dimensions": "1201x2085",
 		"copyright": "unknown",
 		"collections": "Animation"
-    }
+	},
+	{
+		"author": "p15",
+		"url": "https://www.ooklibaioo.com/ken/Wallpapers/p15.jpg",
+		"name": "p15",
+		"thumbnail": "https://www.ooklibaioo.com/ken/Wallpapers/p15.jpg",
+		"dimensions": "1201x2085",
+		"copyright": "unknown",
+		"collections": "Animation"
+	}
 ]

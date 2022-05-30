@@ -45,7 +45,7 @@
                 "Recommendsongs": "https://music163-ooklibaioo.vercel.app/recommend/resource?cookie=<m_cookie>&realIP=<ip>",
                 "MVDownload": "https://music163-ooklibaioo.vercel.app/mv/url?id=<m_id>&cookie=<m_cookie>&realIP=<ip>",
                 "MusicDownload": "https://music163-ooklibaioo.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>&realIP=<ip>",
-                "Commend": "https://music163-ooklibaioo.vercel.app/comment/music?id=<m_id>&cookie=<m_cookie>&realIP=<ip>",
+                "Commend": "https://music163-ooklibaioo.vercel.app/comment/music?id=<m_id>&realIP=<ip>",
                 "CommentLike": "https://music163-ooklibaioo.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>&realIP=<ip>",
                 "Record": "https://music163-ooklibaioo.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1&realIP=<ip>",
                 "MusicSearch": "https://music163-ooklibaioo.vercel.app/cloudsearch?type=1&realIP=<ip>&keywords=",

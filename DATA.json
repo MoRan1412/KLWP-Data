@@ -58,7 +58,10 @@
                 "UserSongList": "https://music163-ooklibaioo.vercel.app/user/playlist?uid=<m_uid>&cookie=<m_cookie>&realIP=<ip>",
                 "getqrkey": "https://music163-ooklibaioo.vercel.app/login/qr/key?realIP=<ip>",
                 "getqrurl": "https://music163-ooklibaioo.vercel.app/login/qr/create?key=<qrkey>&qrimg=1&realIP=<ip>",
-                "getqrcheck": "https://music163-ooklibaioo.vercel.app/login/qr/check?key=<qrkey>&realIP=<ip>"
+                "getqrcheck": "https://music163-ooklibaioo.vercel.app/login/qr/check?key=<qrkey>&realIP=<ip>",
+                "phonesend": "https://music163-ooklibaioo.vercel.app/captcha/sent?phone=<phonenum>&ctcode=<ctcode>&realIP=<ip>",
+                "phoneverify": "https://music163-ooklibaioo.vercel.app/captcha/verify?phone=<phonenum>&captcha=<captcha>&ctcode=<ctcode>&realIP=<ip>",
+                "phonesignin": "https://music163-ooklibaioo.vercel.app/login/cellphone?phone=<phonenum>&captcha=<captcha>&countrycode=<ctcode>&realIP=<ip>"
             },
             "pt": {
                 "cookie": "..cookie",

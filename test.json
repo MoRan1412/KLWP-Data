@@ -1,0 +1,41 @@
+{
+    "result": 100,
+    "data": {
+        "album": {
+            "count": 0,
+            "itemlist": [],
+            "name": "专辑",
+            "order": 2,
+            "type": 3
+        },
+        "mv": {
+            "count": 0,
+            "itemlist": [],
+            "name": "MV",
+            "order": 3,
+            "type": 4
+        },
+        "singer": {
+            "count": 0,
+            "itemlist": [],
+            "name": "歌手",
+            "order": 1,
+            "type": 2
+        },
+        "song": {
+            "count": 1,
+            "itemlist": [
+                {
+                    "docid": "361947426",
+                    "id": "361947426",
+                    "mid": "000EqWxe275Yd2",
+                    "name": "粉色海洋",
+                    "singer": "周杰伦"
+                }
+            ],
+            "name": "单曲",
+            "order": 0,
+            "type": 1
+        }
+    }
+}

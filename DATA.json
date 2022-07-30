@@ -48,7 +48,7 @@
                 "Commend": "http://120.77.237.94:3000/comment/music?id=<m_id>&realIP=<ip>",
                 "CommentLike": "http://120.77.237.94:3000/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>&realIP=<ip>",
                 "Record": "http://120.77.237.94:3000/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1&realIP=<ip>",
-                "MusicSearch": "http://120.77.237.94:3000/cloudsearch?type=1&realIP=<ip>&keywords=",
+                "MusicSearch": "http://120.77.237.94:3000/search?type=1&realIP=<ip>&keywords=",
                 "Lyric": "http://120.77.237.94:3000/lyric?realIP=<ip>&id=",
                 "AccountDetail": "http://120.77.237.94:3000/user/detail?uid=<m_uid>&cookie=<m_cookie>&realIP=<ip>",
                 "Toplist": "http://120.77.237.94:3000/toplist&realIP=<ip>",
@@ -77,10 +77,10 @@
             "api": {
                 "MusicSearch": "http://120.77.237.94:3300/search/quick?key=<keywords>",
                 "Lyric": "http://120.77.237.94:3300/lyric?songmid=<m_id>",
-                "MusicData":"http://120.77.237.94:3300/song?songmid=<m_id>",
-                "Commend":"http://120.77.237.94:3300/comment?id=<singid>",
-                "MusicDownload":"http://120.77.237.94:3300/song/url?id=<m_id>",
-                "MVDownload":"http://120.77.237.94:3300/song/urls?id=<m_id>"
+                "MusicData": "http://120.77.237.94:3300/song?songmid=<m_id>",
+                "Commend": "http://120.77.237.94:3300/comment?id=<singid>",
+                "MusicDownload": "http://120.77.237.94:3300/song/url?id=<m_id>",
+                "MVDownload": "http://120.77.237.94:3300/song/urls?id=<m_id>"
             }
         },
         "SILK": {

@@ -1,45 +1,53 @@
 {
-    "result": 100,
-    "data": {
-        "comment": {
-            "commentlist": [
-                {
-                    "avatarurl": "http://thirdqq.qlogo.cn/g?b=sdk&k=CL4R1QebPeO5ibDj7smDvibg&s=140&t=1649173948",
-                    "commentid": "1!wFjshV.3OcvyeNZOP4yI1LIlG3Njn30rmmD52-kNpgDqHTR2J2H.qZ5ubw2mw4-1",
-                    "commit_state": 2,
-                    "enable_delete": 0,
-                    "encrypt_rootcommentuin": "oKvl7wn57wni7z**",
-                    "encrypt_uin": "oKvl7wn57wni7z**",
-                    "identity_pic": "",
-                    "identity_type": 0,
-                    "is_hot": 1,
-                    "is_hot_cmt": 1,
-                    "is_medal": 0,
-                    "is_stick": 0,
-                    "ispraise": 0,
-                    "middlecommentcontent": null,
-                    "nick": "偏执.",
-                    "permission": 0,
-                    "praisenum": 5626,
-                    "root_enable_delete": 0,
-                    "root_identity_pic": "",
-                    "root_identity_type": 0,
-                    "root_is_stick": 0,
-                    "rootcommentcontent": "华晨宇,一个认真对待音乐的人,你从小开始的努力没有白费啊，每首歌都是用心的，每个高音都是漂亮的，喜欢你不好意思的时候的那害羞样，音乐界鬼才，希望你能成为下一个周杰伦，一个努力了很久的天才，华晨宇.你对音乐的态度就是和薛之谦一样的，希望你成功！",
-                    "rootcommentid": "1!wFjshV.3OcvyeNZOP4yI1LIlG3Njn30rmmD52-kNpgDqHTR2J2H.qZ5ubw2mw4-1",
-                    "rootcommentnick": "@偏执.",
-                    "rootcommentuin": "",
-                    "score": 0,
-                    "taoge_topic": "",
-                    "taoge_url": "",
-                    "time": 1533898948,
-                    "uin": "",
-                    "user_type": "",
-                    "vipicon": ""
-                }
-            ],
-            "commenttotal": 184
-        },
-        "name": "烟火里的尘埃"
-    }
+    "isMusician": false,
+    "userId": -1,
+    "topComments": [],
+    "moreHot": false,
+    "hotComments": [],
+    "commentBanner": null,
+    "code": 200,
+    "comments": [
+        {
+            "user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "anonym": 0,
+                "commonIdentity": null,
+                "userId": 5151585244,
+                "userType": 0,
+                "avatarDetail": null,
+                "avatarUrl": "http://p3.music.126.net/ioCX9yJgSkQmX5-XUN_DDQ==/109951166544030966.jpg",
+                "followed": false,
+                "mutual": false,
+                "remarkName": null,
+                "vipRights": null,
+                "nickname": "余瓮航",
+                "authStatus": 0,
+                "expertTags": null,
+                "experts": null,
+                "vipType": 0
+            },
+            "beReplied": [],
+            "pendantData": null,
+            "showFloorComment": null,
+            "status": 0,
+            "commentId": 5634637877,
+            "content": "已经做完后期了？之前怎么会有人说不好听呢",
+            "richContent": null,
+            "contentResource": null,
+            "time": 1649596616545,
+            "timeStr": "04-10",
+            "needDisplayTime": true,
+            "likedCount": 0,
+            "expressionUrl": null,
+            "commentLocationType": 0,
+            "parentCommentId": 0,
+            "decoration": {},
+            "repliedMark": null,
+            "grade": null,
+            "liked": false
+        }
+    ],
+    "total": 12,
+    "more": true
 }

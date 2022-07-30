@@ -1,41 +1,45 @@
 {
     "result": 100,
     "data": {
-        "album": {
-            "count": 0,
-            "itemlist": [],
-            "name": "专辑",
-            "order": 2,
-            "type": 3
-        },
-        "mv": {
-            "count": 0,
-            "itemlist": [],
-            "name": "MV",
-            "order": 3,
-            "type": 4
-        },
-        "singer": {
-            "count": 0,
-            "itemlist": [],
-            "name": "歌手",
-            "order": 1,
-            "type": 2
-        },
-        "song": {
-            "count": 1,
-            "itemlist": [
+        "comment": {
+            "commentlist": [
                 {
-                    "docid": "361947426",
-                    "id": "361947426",
-                    "mid": "000EqWxe275Yd2",
-                    "name": "粉色海洋",
-                    "singer": "周杰伦"
+                    "avatarurl": "http://thirdqq.qlogo.cn/g?b=sdk&k=CL4R1QebPeO5ibDj7smDvibg&s=140&t=1649173948",
+                    "commentid": "1!wFjshV.3OcvyeNZOP4yI1LIlG3Njn30rmmD52-kNpgDqHTR2J2H.qZ5ubw2mw4-1",
+                    "commit_state": 2,
+                    "enable_delete": 0,
+                    "encrypt_rootcommentuin": "oKvl7wn57wni7z**",
+                    "encrypt_uin": "oKvl7wn57wni7z**",
+                    "identity_pic": "",
+                    "identity_type": 0,
+                    "is_hot": 1,
+                    "is_hot_cmt": 1,
+                    "is_medal": 0,
+                    "is_stick": 0,
+                    "ispraise": 0,
+                    "middlecommentcontent": null,
+                    "nick": "偏执.",
+                    "permission": 0,
+                    "praisenum": 5626,
+                    "root_enable_delete": 0,
+                    "root_identity_pic": "",
+                    "root_identity_type": 0,
+                    "root_is_stick": 0,
+                    "rootcommentcontent": "华晨宇,一个认真对待音乐的人,你从小开始的努力没有白费啊，每首歌都是用心的，每个高音都是漂亮的，喜欢你不好意思的时候的那害羞样，音乐界鬼才，希望你能成为下一个周杰伦，一个努力了很久的天才，华晨宇.你对音乐的态度就是和薛之谦一样的，希望你成功！",
+                    "rootcommentid": "1!wFjshV.3OcvyeNZOP4yI1LIlG3Njn30rmmD52-kNpgDqHTR2J2H.qZ5ubw2mw4-1",
+                    "rootcommentnick": "@偏执.",
+                    "rootcommentuin": "",
+                    "score": 0,
+                    "taoge_topic": "",
+                    "taoge_url": "",
+                    "time": 1533898948,
+                    "uin": "",
+                    "user_type": "",
+                    "vipicon": ""
                 }
             ],
-            "name": "单曲",
-            "order": 0,
-            "type": 1
-        }
+            "commenttotal": 184
+        },
+        "name": "烟火里的尘埃"
     }
 }

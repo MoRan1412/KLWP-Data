@@ -1,53 +1,17 @@
 {
-    "isMusician": false,
-    "userId": -1,
-    "topComments": [],
-    "moreHot": false,
-    "hotComments": [],
-    "commentBanner": null,
     "code": 200,
-    "comments": [
-        {
-            "user": {
-                "locationInfo": null,
-                "liveInfo": null,
-                "anonym": 0,
-                "commonIdentity": null,
-                "userId": 5151585244,
-                "userType": 0,
-                "avatarDetail": null,
-                "avatarUrl": "http://p3.music.126.net/ioCX9yJgSkQmX5-XUN_DDQ==/109951166544030966.jpg",
-                "followed": false,
-                "mutual": false,
-                "remarkName": null,
-                "vipRights": null,
-                "nickname": "余瓮航",
-                "authStatus": 0,
-                "expertTags": null,
-                "experts": null,
-                "vipType": 0
-            },
-            "beReplied": [],
-            "pendantData": null,
-            "showFloorComment": null,
-            "status": 0,
-            "commentId": 5634637877,
-            "content": "已经做完后期了？之前怎么会有人说不好听呢",
-            "richContent": null,
-            "contentResource": null,
-            "time": 1649596616545,
-            "timeStr": "04-10",
-            "needDisplayTime": true,
-            "likedCount": 0,
-            "expressionUrl": null,
-            "commentLocationType": 0,
-            "parentCommentId": 0,
-            "decoration": {},
-            "repliedMark": null,
-            "grade": null,
-            "liked": false
-        }
-    ],
-    "total": 12,
-    "more": true
+    "data": {
+        "id": 1427335431,
+        "url": null,
+        "r": 0,
+        "size": 0,
+        "md5": null,
+        "code": 404,
+        "expi": 0,
+        "fee": 0,
+        "mvFee": 0,
+        "st": 0,
+        "promotionVo": null,
+        "msg": null
+    }
 }

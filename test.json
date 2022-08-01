@@ -1,17 +1,108 @@
 {
-    "code": 200,
-    "data": {
-        "id": 1427335431,
-        "url": null,
-        "r": 0,
-        "size": 0,
-        "md5": null,
-        "code": 404,
-        "expi": 0,
-        "fee": 0,
-        "mvFee": 0,
-        "st": 0,
-        "promotionVo": null,
-        "msg": null
+    "response": {
+        "code": 0,
+        "data": {
+            "album": {
+                "count": 2,
+                "itemlist": [
+                    {
+                        "docid": "1147271",
+                        "id": "1147271",
+                        "mid": "002hgsbR1NFFdx",
+                        "name": "致爱 Your Song",
+                        "pic": "http://y.gtimg.cn/music/photo_new/T002R180x180M000002hgsbR1NFFdx_3.jpg",
+                        "singer": "鹿晗"
+                    },
+                    {
+                        "docid": "1181889",
+                        "id": "1181889",
+                        "mid": "002ZXwUj3RlnVN",
+                        "name": "勋章",
+                        "pic": "http://y.gtimg.cn/music/photo_new/T002R180x180M000002ZXwUj3RlnVN_3.jpg",
+                        "singer": "鹿晗"
+                    }
+                ],
+                "name": "专辑",
+                "order": 2,
+                "type": 3
+            },
+            "mv": {
+                "count": 2,
+                "itemlist": [
+                    {
+                        "docid": "653673",
+                        "id": "653673",
+                        "mid": "000jPAbw06PMkY",
+                        "name": "致爱（Your Song）",
+                        "singer": "鹿晗",
+                        "vid": "g0018lfwib1"
+                    },
+                    {
+                        "docid": "655778",
+                        "id": "655778",
+                        "mid": "002V9B2x2xjAQc",
+                        "name": "勋章",
+                        "singer": "鹿晗",
+                        "vid": "b0018nuppa9"
+                    }
+                ],
+                "name": "MV",
+                "order": 3,
+                "type": 4
+            },
+            "singer": {
+                "count": 1,
+                "itemlist": [
+                    {
+                        "docid": "204664",
+                        "id": "204664",
+                        "mid": "001SqkF53OEhdO",
+                        "name": "鹿晗",
+                        "pic": "http://y.gtimg.cn/music/photo_new/T001R150x150M000001SqkF53OEhdO_2.jpg",
+                        "singer": "鹿晗"
+                    }
+                ],
+                "name": "歌手",
+                "order": 1,
+                "type": 2
+            },
+            "song": {
+                "count": 4,
+                "itemlist": [
+                    {
+                        "docid": "104251904",
+                        "id": "104251904",
+                        "mid": "002IVyIU4093Xr",
+                        "name": "致爱 Your Song",
+                        "singer": "鹿晗"
+                    },
+                    {
+                        "docid": "104780330",
+                        "id": "104780330",
+                        "mid": "001vBZtU09AoiB",
+                        "name": "勋章",
+                        "singer": "鹿晗"
+                    },
+                    {
+                        "docid": "101125834",
+                        "id": "101125834",
+                        "mid": "000aKw3L1eVeys",
+                        "name": "我们的明天",
+                        "singer": "鹿晗"
+                    },
+                    {
+                        "docid": "263631258",
+                        "id": "263631258",
+                        "mid": "004SphgF19XKVP",
+                        "name": "慢慢 (Slow Motion)",
+                        "singer": "鹿晗"
+                    }
+                ],
+                "name": "单曲",
+                "order": 0,
+                "type": 1
+            }
+        },
+        "subcode": 0
     }
 }

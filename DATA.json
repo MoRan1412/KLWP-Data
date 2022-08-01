@@ -75,12 +75,15 @@
         },
         "QQMusicApi": {
             "api": {
-                "MusicSearch": "http://120.77.237.94:3300/search/quick?key=<keywords>",
-                "Lyric": "http://120.77.237.94:3300/lyric?songmid=<m_id>",
-                "MusicData": "http://120.77.237.94:3300/song?songmid=<m_id>",
-                "Commend": "http://120.77.237.94:3300/comment?id=<singid>",
-                "MusicDownload": "http://120.77.237.94:3300/song/url?id=<m_id>",
-                "MVDownload": "http://120.77.237.94:3300/song/urls?id=<m_id>"
+                "MusicSearch": "https://music163-2845815262.vercel.app/getSmartbox?key=<keywords>",
+                "Lyric": "https://music163-2845815262.vercel.app/getLyric?songmid=<m_id>",
+                "MusicData": "https://music163-2845815262.vercel.app/getSongInfo?songmid=<m_id>",
+                "Commend": "https://music163-2845815262.vercel.app/getComments?id=<singid>",
+                "MusicDownload": "https://music163-2845815262.vercel.app/getMusicPlay?songmid=<m_id>",
+                "MVDownload": "https://music163-2845815262.vercel.app/getMvPlay?vid=<v_id>"
+            },
+            "pt":{
+                "Lyric":"response.lyric"
             }
         },
         "SILK": {

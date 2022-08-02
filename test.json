@@ -1,579 +1,967 @@
 {
     "response": {
         "code": 0,
-        "subcode": 0,
-        "message": "",
-        "default": 0,
-        "data": {
-            "topList": [
-                {
-                    "id": 4,
-                    "listenCount": 9148400,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000er77501mF65.jpg",
-                    "songList": [
+        "ts": 1659429644110,
+        "start_ts": 1659429644042,
+        "traceid": "4045dc47e13de141",
+        "getMVUrl": {
+            "code": 0,
+            "data": {
+                "u00222le4ox": {
+                    "mp4": [
                         {
-                            "singername": "NewJeans (뉴진스)",
-                            "songname": "Hype Boy"
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 2000,
+                            "filetype": 0,
+                            "m3u8": "",
+                            "newFileType": 0,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
                         },
                         {
-                            "singername": "NewJeans (뉴진스)",
-                            "songname": "Attention"
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 1000,
+                            "filetype": 10,
+                            "m3u8": "",
+                            "newFileType": 10,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
                         },
                         {
-                            "singername": "迟里乌布/Morerare",
-                            "songname": "簇拥烈日的花"
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 1000,
+                            "filetype": 20,
+                            "m3u8": "",
+                            "newFileType": 20,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
+                        },
+                        {
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 1000,
+                            "filetype": 30,
+                            "m3u8": "",
+                            "newFileType": 30,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
+                        },
+                        {
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 1000,
+                            "filetype": 40,
+                            "m3u8": "",
+                            "newFileType": 40,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
                         }
                     ],
-                    "topTitle": "巅峰榜·流行指数",
-                    "type": 0
-                },
-                {
-                    "id": 26,
-                    "listenCount": 19100000,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000002foVW0q1IHs.jpg",
-                    "songList": [
+                    "hls": [
                         {
-                            "singername": "古巨基",
-                            "songname": "必杀技"
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 2000,
+                            "filetype": 0,
+                            "m3u8": "",
+                            "newFileType": 0,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
                         },
                         {
-                            "singername": "LBI利比",
-                            "songname": "小城夏天"
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 2000,
+                            "filetype": 10,
+                            "m3u8": "",
+                            "newFileType": 10,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
                         },
                         {
-                            "singername": "蔡健雅",
-                            "songname": "Letting Go"
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 2000,
+                            "filetype": 20,
+                            "m3u8": "",
+                            "newFileType": 20,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
+                        },
+                        {
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 2000,
+                            "filetype": 30,
+                            "m3u8": "",
+                            "newFileType": 30,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
+                        },
+                        {
+                            "url": [],
+                            "freeflow_url": [],
+                            "comm_url": [],
+                            "cn": "",
+                            "vkey": "",
+                            "expire": 86400,
+                            "code": 2000,
+                            "filetype": 40,
+                            "m3u8": "",
+                            "newFileType": 40,
+                            "format": 264,
+                            "testCdn": 0,
+                            "urlPath": "",
+                            "videoType": 0,
+                            "hlsFileFormat": "",
+                            "fileSize": 0
                         }
                     ],
-                    "topTitle": "巅峰榜·热歌",
-                    "type": 0
-                },
-                {
-                    "id": 27,
-                    "listenCount": 373371,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002li4fy4TckTm.jpg",
-                    "songList": [
-                        {
-                            "singername": "时代少年团",
-                            "songname": "绝配"
-                        },
-                        {
-                            "singername": "告五人",
-                            "songname": "给你一瓶魔法药水"
-                        },
-                        {
-                            "singername": "蔡徐坤",
-                            "songname": "Hug me"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·新歌",
-                    "type": 0
-                },
-                {
-                    "id": 62,
-                    "listenCount": 19170832,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000VSKN31rO8sL.jpg",
-                    "songList": [
-                        {
-                            "singername": "NewJeans (뉴진스)",
-                            "songname": "Hype Boy"
-                        },
-                        {
-                            "singername": "NewJeans (뉴진스)",
-                            "songname": "Attention"
-                        },
-                        {
-                            "singername": "NewJeans (뉴진스)",
-                            "songname": "Hurt"
-                        }
-                    ],
-                    "topTitle": "飙升榜",
-                    "type": 0
-                },
-                {
-                    "id": 58,
-                    "listenCount": 2298240,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002yiXGh1k0vm9.jpg",
-                    "songList": [
-                        {
-                            "singername": "时代少年团",
-                            "songname": "绝配"
-                        },
-                        {
-                            "singername": "盛宇DamnShine/KEY.L刘聪/ICE",
-                            "songname": "隆里电丝 (Live)"
-                        },
-                        {
-                            "singername": "周杰伦",
-                            "songname": "最伟大的作品"
-                        }
-                    ],
-                    "topTitle": "说唱榜",
-                    "type": 0
-                },
-                {
-                    "id": 57,
-                    "listenCount": 1692360,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000008iBBh1KUsNh.jpg",
-                    "songList": [
-                        {
-                            "singername": "The Chainsmokers/Bob Moses",
-                            "songname": "Why Can't You Wait"
-                        },
-                        {
-                            "singername": "Calvin Harris/Justin Timberlake/Halsey/Pharrell Williams",
-                            "songname": "Stay With Me"
-                        },
-                        {
-                            "singername": "Martin Garrix/DallasK/Sasha Alex Sloan",
-                            "songname": "Loop (Explicit)"
-                        }
-                    ],
-                    "topTitle": "喜力电音榜",
-                    "type": 0
-                },
-                {
-                    "id": 28,
-                    "listenCount": 5342140,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000W6WTh06tadY.jpg",
-                    "songList": [
-                        {
-                            "singername": "半吨兄弟",
-                            "songname": "对你说"
-                        },
-                        {
-                            "singername": "魏佳艺",
-                            "songname": "我来人间一趟"
-                        },
-                        {
-                            "singername": "半吨兄弟",
-                            "songname": "心要让你听见"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·网络歌曲",
-                    "type": 0
-                },
-                {
-                    "id": 5,
-                    "listenCount": 1921830,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000016RqcN2i2qXK.jpg",
-                    "songList": [
-                        {
-                            "singername": "蔡徐坤",
-                            "songname": "Hug me"
-                        },
-                        {
-                            "singername": "时代少年团",
-                            "songname": "绝配"
-                        },
-                        {
-                            "singername": "苏星婕",
-                            "songname": "把回忆拼好给你 (正版授权)"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·内地",
-                    "type": 0
-                },
-                {
-                    "id": 3,
-                    "listenCount": 2222780,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002V3kxb4Xle0t.jpg",
-                    "songList": [
-                        {
-                            "singername": "The Chainsmokers",
-                            "songname": "Time Bomb (Explicit)"
-                        },
-                        {
-                            "singername": "Billie Eilish",
-                            "songname": "TV"
-                        },
-                        {
-                            "singername": "Porter Robinson/英雄联盟",
-                            "songname": "Everything Goes On (群星依旧)"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·欧美",
-                    "type": 0
-                },
-                {
-                    "id": 59,
-                    "listenCount": 833420,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002x43ez4e6QAW.jpg",
-                    "songList": [
-                        {
-                            "singername": "容祖儿",
-                            "songname": "就让这大雨全都落下"
-                        },
-                        {
-                            "singername": "MC 张天赋",
-                            "songname": "老派约会之必要"
-                        },
-                        {
-                            "singername": "陈小春",
-                            "songname": "传奇天下"
-                        }
-                    ],
-                    "topTitle": "香港地区榜",
-                    "type": 0
-                },
-                {
-                    "id": 16,
-                    "listenCount": 1990000,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001BG5iR1zqCEX.jpg",
-                    "songList": [
-                        {
-                            "singername": "BoA (宝儿)/刘雨昕",
-                            "songname": "Better"
-                        },
-                        {
-                            "singername": "ITZY (있지)",
-                            "songname": "SNEAKERS"
-                        },
-                        {
-                            "singername": "aespa (에스파)",
-                            "songname": "Girls"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·韩国",
-                    "type": 0
-                },
-                {
-                    "id": 60,
-                    "listenCount": 7930180,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003ol9B32FVhQg.jpg",
-                    "songList": [
-                        {
-                            "singername": "蔡徐坤",
-                            "songname": "Hug me"
-                        },
-                        {
-                            "singername": "陈奕迅",
-                            "songname": "孤勇者"
-                        },
-                        {
-                            "singername": "盛哲",
-                            "songname": "在你的身边"
-                        }
-                    ],
-                    "topTitle": "抖快榜",
-                    "type": 0
-                },
-                {
-                    "id": 29,
-                    "listenCount": 812210,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002QAyvj4Av28X.jpg",
-                    "songList": [
-                        {
-                            "singername": "周深",
-                            "songname": "你的样子"
-                        },
-                        {
-                            "singername": "ANU",
-                            "songname": "飞"
-                        },
-                        {
-                            "singername": "张杰",
-                            "songname": "红尘录"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·影视金曲",
-                    "type": 0
-                },
-                {
-                    "id": 17,
-                    "listenCount": 515809,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000049FKa124c0vk.jpg",
-                    "songList": [
-                        {
-                            "singername": "ヨルシカ (Yorushika)",
-                            "songname": "左右盲"
-                        },
-                        {
-                            "singername": "星野源 (ほしの げん)/おばけ",
-                            "songname": "異世界混合大舞踏会 (feat. おばけ)"
-                        },
-                        {
-                            "singername": "米津玄師 (よねづ けんし)",
-                            "songname": "M八七"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·日本",
-                    "type": 0
-                },
-                {
-                    "id": 201,
-                    "listenCount": 1910000,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004EogEN0j9wbU.jpg",
-                    "songList": [
-                        {
-                            "singername": "周杰伦",
-                            "songname": "最伟大的作品 / Greatest Works of Art"
-                        },
-                        {
-                            "singername": "周杰伦",
-                            "songname": "还在流浪"
-                        },
-                        {
-                            "singername": "刘雨昕",
-                            "songname": "Boom Tick Boom"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·MV",
-                    "type": 0
-                },
-                {
-                    "id": 52,
-                    "listenCount": 516002,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003KCBR10jOUhq.jpg",
-                    "songList": [
-                        {
-                            "singername": "枯木逢春",
-                            "songname": "听风"
-                        },
-                        {
-                            "singername": "朱婧汐JING/Chace",
-                            "songname": "骨头 Over The Bones"
-                        },
-                        {
-                            "singername": "张羽涵",
-                            "songname": "此单曲仅限18岁以下收听"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·腾讯音乐人原创榜",
-                    "type": 0
-                },
-                {
-                    "id": 36,
-                    "listenCount": 952770,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002oWf5m3HXI5o.jpg",
-                    "songList": [
-                        {
-                            "singername": "Zyboy忠宇",
-                            "songname": "妈妈的话"
-                        },
-                        {
-                            "singername": "王心凌",
-                            "songname": "爱你"
-                        },
-                        {
-                            "singername": "莫文蔚",
-                            "songname": "这世界那么多人"
-                        }
-                    ],
-                    "topTitle": "巅峰榜·K歌金曲",
-                    "type": 0
-                },
-                {
-                    "id": 61,
-                    "listenCount": 402093,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000mqQwO0LRvTV.jpg",
-                    "songList": [
-                        {
-                            "singername": "周杰伦",
-                            "songname": "最伟大的作品"
-                        },
-                        {
-                            "singername": "告五人",
-                            "songname": "给你一瓶魔法药水"
-                        },
-                        {
-                            "singername": "周杰伦",
-                            "songname": "还在流浪"
-                        }
-                    ],
-                    "topTitle": "台湾地区榜",
-                    "type": 0
-                },
-                {
-                    "id": 63,
-                    "listenCount": 9066260,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000CM5Sv0YFp40.jpg",
-                    "songList": [
-                        {
-                            "singername": "刘至佳",
-                            "songname": "鲸语 (DJ楠哈哈版)"
-                        },
-                        {
-                            "singername": "DJ小鱼儿",
-                            "songname": "黑桃A"
-                        },
-                        {
-                            "singername": "AtleastYi",
-                            "songname": "小情歌"
-                        }
-                    ],
-                    "topTitle": "DJ舞曲榜",
-                    "type": 0
-                },
-                {
-                    "id": 64,
-                    "listenCount": 571270,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000019I1rg37Kdzc.jpg",
-                    "songList": [
-                        {
-                            "singername": "盛宇DamnShine/KEY.L刘聪/ICE",
-                            "songname": "隆里电丝 (Live)"
-                        },
-                        {
-                            "singername": "杨和苏KeyNG/王以太/早安",
-                            "songname": "一席之地 (Live)"
-                        },
-                        {
-                            "singername": "艾热AIR/王以太",
-                            "songname": "别怕变老 (Live)"
-                        }
-                    ],
-                    "topTitle": "综艺新歌榜",
-                    "type": 0
-                },
-                {
-                    "id": 65,
-                    "listenCount": 3561820,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003cqsEG1XAsnj.jpg",
-                    "songList": [
-                        {
-                            "singername": "周杰伦",
-                            "songname": "红颜如霜"
-                        },
-                        {
-                            "singername": "张靓颖",
-                            "songname": "偏星"
-                        },
-                        {
-                            "singername": "张杰",
-                            "songname": "红尘录"
-                        }
-                    ],
-                    "topTitle": "国风热歌榜",
-                    "type": 0
-                },
-                {
-                    "id": 67,
-                    "listenCount": 5938320,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003cm1ZG4JY9Pv.jpg",
-                    "songList": [
-                        {
-                            "singername": "慢热的气球",
-                            "songname": "在你的身边 (0.8x)"
-                        },
-                        {
-                            "singername": "告五人",
-                            "songname": "给你一瓶魔法药水"
-                        },
-                        {
-                            "singername": "苏天伦",
-                            "songname": "拉个勾说永远爱我"
-                        }
-                    ],
-                    "topTitle": "听歌识曲榜",
-                    "type": 0
-                },
-                {
-                    "id": 72,
-                    "listenCount": 183471,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002QQJIF3VYQaX.jpg",
-                    "songList": [
-                        {
-                            "singername": "周深",
-                            "songname": "重生"
-                        },
-                        {
-                            "singername": "周深",
-                            "songname": "请带着浪漫远航"
-                        },
-                        {
-                            "singername": "希林娜依高",
-                            "songname": "唯我•念"
-                        }
-                    ],
-                    "topTitle": "动漫音乐榜",
-                    "type": 0
-                },
-                {
-                    "id": 73,
-                    "listenCount": 273711,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000007tfBv2m4ncC.jpg",
-                    "songList": [
-                        {
-                            "singername": "孙燕姿",
-                            "songname": "擒光"
-                        },
-                        {
-                            "singername": "Porter Robinson/英雄联盟",
-                            "songname": "Everything Goes On (群星依旧)"
-                        },
-                        {
-                            "singername": "陈小春",
-                            "songname": "传奇天下"
-                        }
-                    ],
-                    "topTitle": "游戏音乐榜",
-                    "type": 0
-                },
-                {
-                    "id": 75,
-                    "listenCount": 332581,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001IO6UU3HuYSP.jpg",
-                    "songList": [
-                        {
-                            "singername": "回家说事",
-                            "songname": "六至道尊丨万人在线收听丨热播榜No.1"
-                        },
-                        {
-                            "singername": "主播懒愚/主播醒时梦/主播河川/主播大师兄孟谦",
-                            "songname": "斗破苍穹丨斗魂化翼，一啸破苍穹"
-                        },
-                        {
-                            "singername": "说书的小唐",
-                            "songname": "校花的贴身高手丨火爆十年的都市神作"
-                        }
-                    ],
-                    "topTitle": "有声榜",
-                    "type": 0
-                },
-                {
-                    "id": 131,
-                    "listenCount": 365231,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000023FcQb3yAjGP.jpg",
-                    "songList": [
-                        {
-                            "singername": "梁铭琛",
-                            "songname": "乌鸦旅馆"
-                        },
-                        {
-                            "singername": "江迟同学",
-                            "songname": "我们会在晚风里遇见"
-                        },
-                        {
-                            "singername": "指尖笑",
-                            "songname": "伴霓裳"
-                        }
-                    ],
-                    "topTitle": "校园音乐人排行榜",
-                    "type": 0
-                },
-                {
-                    "id": 70,
-                    "listenCount": 437751,
-                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004fpay73hPgLb.jpg",
-                    "songList": [
-                        {
-                            "singername": "山复尔漫",
-                            "songname": "爱情三十六计"
-                        },
-                        {
-                            "singername": "田浩宇",
-                            "songname": "樱花树下的约定 (Live)"
-                        },
-                        {
-                            "singername": "误",
-                            "songname": "多远都要在一起 (Live)"
-                        }
-                    ],
-                    "topTitle": "达人音乐榜",
-                    "type": 0
+                    "svp_flag": 1
                 }
-            ]
+            }
+        },
+        "mvinfo": {
+            "code": 0,
+            "data": {
+                "u00222le4ox": {
+                    "cover_pic": "http://y.gtimg.cn/music/photo_new/T015R640x360M101000zvsVL4Bsi25.jpg",
+                    "desc": "《告白气球》MV于巴黎取景。在MV里，周杰伦帅气地走在塞纳-马恩省河畔、在巴黎铁塔前留下身影，MV营造了一幅浪漫的景致。而MV里关于谈情说爱、告白的部分，周杰伦则交给了旗下子弟兵派伟俊（小派）出演男主。2017年1月，这首歌曲获得Billboard Radio China 2016年度十大金曲奖。",
+                    "duration": 215,
+                    "gmid": "0137CeA93kFeUQ",
+                    "isfav": 0,
+                    "msg": "抱歉，因版权限制，该视频在当前国家或地区暂不支持播放",
+                    "name": "告白气球",
+                    "playcnt": 72083481,
+                    "pubdate": 1477584000,
+                    "sid": 1053277,
+                    "singers": [
+                        {
+                            "id": 4558,
+                            "mid": "0025NhlN2yWrP4",
+                            "name": "周杰伦",
+                            "pic_mid": "0025NhlN2yWrP4_7",
+                            "picurl": "http://y.gtimg.cn/music/photo_new/T001R150x150M0000025NhlN2yWrP4_7.jpg"
+                        }
+                    ],
+                    "type": 0,
+                    "vid": "u00222le4ox",
+                    "video_switch": 1927
+                }
+            }
+        },
+        "other": {
+            "code": 0,
+            "data": {
+                "abt": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "list": [
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000003AVL2N0HIQsh.jpg",
+                        "desc": "",
+                        "duration": 43,
+                        "gmid": "010WmDJz29H6pS",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "一首周杰伦的《夜曲》深入人心，勾起了多少人的青春回忆呢？",
+                        "playcnt": 249200,
+                        "pubdate": 1650374906,
+                        "sid": 22157798,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "7woP7eCAoKvF",
+                        "uploader_follower_num": 203,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/37776f50376543416f4b7646-1647427079/140",
+                        "uploader_nick": "音乐起范儿",
+                        "uploader_uin": "634462148",
+                        "vid": "010WmDJz29H6pS",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T023R750x750M000000Z3Zpl1SBoj8.jpg",
+                        "desc": "",
+                        "duration": 54,
+                        "gmid": "010Dxsrq4303pb",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "好希望《不能说的秘密》重映啊！",
+                        "playcnt": 88378,
+                        "pubdate": 1650189967,
+                        "sid": 22110624,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owcPoKcsoKEl7c**",
+                        "uploader_follower_num": 66106,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1138765.jpg",
+                        "uploader_nick": "ZIBO资博",
+                        "uploader_uin": "2841861976",
+                        "vid": "010Dxsrq4303pb",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001rLVG81V8nGN.jpg",
+                        "desc": "",
+                        "duration": 52,
+                        "gmid": "011SV2a60kpCXV",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦四首无与伦比的前奏，你听过几首？",
+                        "playcnt": 291596,
+                        "pubdate": 1650277804,
+                        "sid": 22133504,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oi65NKSloi4Poc**",
+                        "uploader_follower_num": 877,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M0000005uZIO2of8UN.jpg",
+                        "uploader_nick": "华流周杰伦JAY",
+                        "uploader_uin": "3119773542",
+                        "vid": "011SV2a60kpCXV",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000003C3u2g3ZP0AV.jpg",
+                        "desc": "",
+                        "duration": 26,
+                        "gmid": "0108E4t71nAhyK",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "甜蜜的很轻易～#周杰伦",
+                        "playcnt": 3683,
+                        "pubdate": 1650334521,
+                        "sid": 22148881,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "7e-q7KnkNKEiNv**",
+                        "uploader_follower_num": 28895,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://y.qq.com/music/common/upload/t_video_virtual_music_id/4334497.webp",
+                        "uploader_nick": "宝藏翻唱企划",
+                        "uploader_uin": "4295059939",
+                        "vid": "0108E4t71nAhyK",
+                        "video_switch": 2047
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000002cffss3LTz8v.jpg",
+                        "desc": "",
+                        "duration": 27,
+                        "gmid": "0112yLSi1dD8d7",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "“陈奕迅偷偷去看周杰伦演唱会，被抓包后周杰伦立马唱《淘汰》”",
+                        "playcnt": 536852,
+                        "pubdate": 1650355036,
+                        "sid": 22153718,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owCqoiSzoKnl7z**",
+                        "uploader_follower_num": 196,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/6f7743716f69537a6f4b6e6c377a2a2a-1639732774/140",
+                        "uploader_nick": "音乐推荐",
+                        "uploader_uin": "2693701077",
+                        "vid": "0112yLSi1dD8d7",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001kDbIY17HPa8.jpg",
+                        "desc": "迷你世界：冒险生存，来来数一数挖到几颗孔雀石",
+                        "duration": 522,
+                        "gmid": "011VfqnM1b1Gz8",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "迷你世界：冒险生存，来来数一数挖到几颗孔雀石",
+                        "playcnt": 3371,
+                        "pubdate": 1650359030,
+                        "sid": 22154688,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owol7wSFoiCF",
+                        "uploader_follower_num": 982,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://thirdqq.qlogo.cn/g?b=sdk&k=w8ObeERSNIt3ckhWWOLq0w&s=140&t=1628046030",
+                        "uploader_nick": "游戏解说小李子",
+                        "uploader_uin": "237678368",
+                        "vid": "011VfqnM1b1Gz8",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000004BDTVP3qujNn.jpg",
+                        "desc": "你知道《倒带》的故事吗？\n原来《倒带》是方文山写他和前女友的故事！",
+                        "duration": 29,
+                        "gmid": "010McZsy0rWSqq",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "你知道《倒带》的故事吗？",
+                        "playcnt": 118631,
+                        "pubdate": 1650359949,
+                        "sid": 22155025,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "7eni7w-z7Knk",
+                        "uploader_follower_num": 4092,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/2522397.png",
+                        "uploader_nick": "周杰伦演唱会",
+                        "uploader_uin": "403620505",
+                        "vid": "010McZsy0rWSqq",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000002ek53j4VPgiF.jpg",
+                        "desc": "",
+                        "duration": 46,
+                        "gmid": "0130LV5l1mxjcp",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦的那些春晚现场，那一场是你的回忆呢",
+                        "playcnt": 127607,
+                        "pubdate": 1650360745,
+                        "sid": 22155151,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owCloeEA7KcP7c**",
+                        "uploader_follower_num": 1032,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M000000LIRJv1GfqNE.jpg",
+                        "uploader_nick": "杰伦音乐集",
+                        "uploader_uin": "2670925846",
+                        "vid": "0130LV5l1mxjcp",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001An3vY2JAGZM.jpg",
+                        "desc": "",
+                        "duration": 17,
+                        "gmid": "0148SBLt092feb",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦的音乐，光听前奏，你能听出来是什么歌吗？",
+                        "playcnt": 155190,
+                        "pubdate": 1650361053,
+                        "sid": 22155224,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owCloeEA7KcP7c**",
+                        "uploader_follower_num": 1032,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M000000LIRJv1GfqNE.jpg",
+                        "uploader_nick": "杰伦音乐集",
+                        "uploader_uin": "2670925846",
+                        "vid": "0148SBLt092feb",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001GjHun0VzBJz.jpg",
+                        "desc": "",
+                        "duration": 38,
+                        "gmid": "010Yss2n0K4Mqn",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "如果华佗再世，崇洋都被医治",
+                        "playcnt": 1186859,
+                        "pubdate": 1650363286,
+                        "sid": 22155664,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "7inP7wSlow6A",
+                        "uploader_follower_num": 316,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/37696e503777536c6f773641-1646361422/140",
+                        "uploader_nick": "老八爱音乐",
+                        "uploader_uin": "704677212",
+                        "vid": "010Yss2n0K4Mqn",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000002dd9Ap2FaOBP.jpg",
+                        "desc": "",
+                        "duration": 59,
+                        "gmid": "012G0aPu2wLI0V",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦《蜗牛》当坚持不下去自己的梦想的时候，一定要来听这首歌",
+                        "playcnt": 84338,
+                        "pubdate": 1650181629,
+                        "sid": 22108878,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owCqoiSzoKnl7z**",
+                        "uploader_follower_num": 196,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/6f7743716f69537a6f4b6e6c377a2a2a-1639732774/140",
+                        "uploader_nick": "音乐推荐",
+                        "uploader_uin": "2693701077",
+                        "vid": "012G0aPu2wLI0V",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001wPGww3XabjC.jpg",
+                        "desc": "白毛衣合集",
+                        "duration": 254,
+                        "gmid": "012uPSt441j5VC",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "2005年厦门橙色风暴演唱会",
+                        "playcnt": 181687,
+                        "pubdate": 1650376325,
+                        "sid": 22158008,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owokowvFow-ANn**",
+                        "uploader_follower_num": 61,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/6f776f6b6f7776466f772d414e6e2a2a-1650478986/140",
+                        "uploader_nick": "爱在西元前",
+                        "uploader_uin": "2352482228",
+                        "vid": "012uPSt441j5VC",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000003O5wXk2Cj8uT.jpg",
+                        "desc": "   这首歌进入考题N多次啦，考点很多，学生一定要学会，记准歌词",
+                        "duration": 110,
+                        "gmid": "012h7NVT2JMQxk",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "今天上历史课学到了古巴比伦，瞬间想到周董的歌",
+                        "playcnt": 289596,
+                        "pubdate": 1650381801,
+                        "sid": 22159071,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oKcPNK4z7iozNn**",
+                        "uploader_follower_num": 1503,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://thirdqq.qlogo.cn/g?b=sdk&k=jo3w8S8RxzWRPiaDTGia6VNg&s=140&t=1617973812",
+                        "uploader_nick": "Hermes",
+                        "uploader_uin": "1849507308",
+                        "vid": "012h7NVT2JMQxk",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000003HG1zd0atBRO.jpg",
+                        "desc": "周杰伦创作这首歌是因为一直对‘中国风’很感兴趣，为了表达一种民族精神，讽刺那些崇洋媚外的人，告诉他们，中国的祖先很了不起。  他认为中药其实就是代表中国人，是除了功夫之外最能代表的，这些中药汉方是我们祖先非常不易取来的，值得大家骄傲，所以我们也要重视自己华人的文化。该歌曲杂糅了美式嘻哈和中国风，用诙谐幽默的嘻哈元素让曲风鲜活起来，充满创意，另外歌名取自经典医书《本草纲目》，歌词里还用了16种古老的药材名，让年轻人大开眼界，了解中华民族的智慧。",
+                        "duration": 38,
+                        "gmid": "011UEF5m0E9xXY",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦都没想到，十多年后他的《本草纲目》会变成毽子操BGM",
+                        "playcnt": 338530,
+                        "pubdate": 1650443517,
+                        "sid": 22172836,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oiSloiCzoeE5",
+                        "uploader_follower_num": 791,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/6f69536c6f69437a6f654535-1646876385/140",
+                        "uploader_nick": "小七音乐汇",
+                        "uploader_uin": "377360091",
+                        "vid": "011UEF5m0E9xXY",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000002YgC9241TyDX.jpg",
+                        "desc": "",
+                        "duration": 39,
+                        "gmid": "013TTOdF2PPI8r",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "很多人说这场春晚的青花瓷不是真唱，是怎么看出来的？",
+                        "playcnt": 246584,
+                        "pubdate": 1650444058,
+                        "sid": 22172933,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owCloeEA7KcP7c**",
+                        "uploader_follower_num": 1032,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M000000LIRJv1GfqNE.jpg",
+                        "uploader_nick": "杰伦音乐集",
+                        "uploader_uin": "2670925846",
+                        "vid": "013TTOdF2PPI8r",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000004gaSEP0Nuqg7.jpg",
+                        "desc": "李时珍不畏“从医难，著书难，出书难”，用尽30年修著了近190万字的《本草纲目》，一生逆流而行。",
+                        "duration": 33,
+                        "gmid": "0145Mh5e4B1KAo",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "“不要让韩流越来越嚣张，华流才是顶流”",
+                        "playcnt": 535951,
+                        "pubdate": 1650448976,
+                        "sid": 22174159,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oKoiow4zoe4kov**",
+                        "uploader_follower_num": 210,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://thirdqq.qlogo.cn/g?b=sdk&k=639xHNIT3iaWdJVnabW43dg&s=140&t=1600793376",
+                        "uploader_nick": "音乐杂货铺0",
+                        "uploader_uin": "1332500551",
+                        "vid": "0145Mh5e4B1KAo",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001XrBMs31IpO4.jpg",
+                        "desc": "",
+                        "duration": 65,
+                        "gmid": "011ZmJ3t4G5oIH",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "不要让韩流越来越嚣张，华流才是最diao！",
+                        "playcnt": 269650,
+                        "pubdate": 1650449797,
+                        "sid": 22174460,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "NKns7ecs7eni",
+                        "uploader_follower_num": 105,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/4e4b6e733765637337656e69-1646874084/140",
+                        "uploader_nick": "王王music",
+                        "uploader_uin": "906486403",
+                        "vid": "011ZmJ3t4G5oIH",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000002KUrrz1i07yV.jpg",
+                        "desc": "",
+                        "duration": 153,
+                        "gmid": "014bqsuk1aySuO",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "当周杰伦翻唱别人的歌，Bgm一响全是回忆！",
+                        "playcnt": 173058,
+                        "pubdate": 1650452377,
+                        "sid": 22174849,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oi65NKSloi4Poc**",
+                        "uploader_follower_num": 877,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M0000005uZIO2of8UN.jpg",
+                        "uploader_nick": "华流周杰伦JAY",
+                        "uploader_uin": "3119773542",
+                        "vid": "014bqsuk1aySuO",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001iABHd2gzw19.jpg",
+                        "desc": "歌名“本草纲目”源自明朝名医李时珍的旷世巨作，这本书后来被翻译成多国语言，传遍世界各国，影响现代至深！周杰伦说：“灵感的第一要素就是做别人没做过的，这是先决条件。《本草纲目》这首歌里“中药”的这个概念就没有人用过。”周董的创意果然与众不同！民族意识向来强烈的他还说：“中药其实就是代表中国人，是除了功夫之外最能代表的！这些中药汉方是我们祖先非常不易取来的，这幺辛苦，这幺厉害！也那幺値得骄傲！所以我们也要重视自己华人的文化！”",
+                        "duration": 254,
+                        "gmid": "013tiTtJ0K4CrD",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦2007年世界巡回演唱会《本草纲目》4K修复现场版",
+                        "playcnt": 163018,
+                        "pubdate": 1650466226,
+                        "sid": 22177308,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "ownANK65Nn**",
+                        "uploader_follower_num": 251567,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/4392532.jpg",
+                        "uploader_nick": "周杰伦微博台",
+                        "uploader_uin": "2029118",
+                        "vid": "013tiTtJ0K4CrD",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001nu6rB20CP57.jpg",
+                        "desc": "周杰伦创作《本草纲目》这首歌是因为一直对“中国风”很感兴趣，为了表达一种民族精神，讽刺那些崇洋媚外的人，告诉他们，中国的祖先很了不起。他认为中药其实就是代表中国人，是除了功夫之外最能代表的，这些中药汉方是我们祖先非常不易取来的，值得大家骄傲，所以我们也要重视自己华人的文化。",
+                        "duration": 226,
+                        "gmid": "011p7x1z2qxJBY",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦《本草纲目》4K超清修复完整版MV",
+                        "playcnt": 1204697,
+                        "pubdate": 1650466314,
+                        "sid": 22177319,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "ownANK65Nn**",
+                        "uploader_follower_num": 251567,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/4392532.jpg",
+                        "uploader_nick": "周杰伦微博台",
+                        "uploader_uin": "2029118",
+                        "vid": "011p7x1z2qxJBY",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000000uMQyo42QZRo.jpg",
+                        "desc": "",
+                        "duration": 50,
+                        "gmid": "014SSJmY2KqlSf",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "经典现场回顾，天王周杰伦 和天后孙燕姿 合唱《不能说的秘密》",
+                        "playcnt": 64034,
+                        "pubdate": 1650012953,
+                        "sid": 22073877,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oKCqoioFNKEANv**",
+                        "uploader_follower_num": 40116,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1136020.png",
+                        "uploader_nick": "唱给你听",
+                        "uploader_uin": "1693389929",
+                        "vid": "014SSJmY2KqlSf",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001iJRq81voAlF.jpg",
+                        "desc": "",
+                        "duration": 254,
+                        "gmid": "010BZ9LD3MpFJ3",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "《后退》不要将后悔留给自己，改变从现在开始。",
+                        "playcnt": 50279,
+                        "pubdate": 1649671449,
+                        "sid": 21974627,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owCloeEA7KcP7c**",
+                        "uploader_follower_num": 1032,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M000000LIRJv1GfqNE.jpg",
+                        "uploader_nick": "杰伦音乐集",
+                        "uploader_uin": "2670925846",
+                        "vid": "010BZ9LD3MpFJ3",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000003IXWtR3i7hIC.jpg",
+                        "desc": "周杰伦歌曲的那些神级前奏，你最喜欢哪一首？\n小编只例举了四首，如果不是你最喜欢的，可以在评论区留言你最喜欢周杰伦其他好听前奏哦～\n ",
+                        "duration": 74,
+                        "gmid": "014Gbl194PBIDM",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "【周杰伦】那些可以封神的前奏，你还知道其他的吗？",
+                        "playcnt": 87947,
+                        "pubdate": 1649687109,
+                        "sid": 21977392,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owSPNeEkoeviov**",
+                        "uploader_follower_num": 20430,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M000004BJSGQ3inlsy.jpg",
+                        "uploader_nick": "失去雨的阴天",
+                        "uploader_uin": "2748950431",
+                        "vid": "014Gbl194PBIDM",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000000FhKxS1oTOp7.jpg",
+                        "desc": "说唱界的天花板，你们没意见吧",
+                        "duration": 20,
+                        "gmid": "012VM49M2YAkFJ",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "杰伦yyds",
+                        "playcnt": 44986,
+                        "pubdate": 1649737799,
+                        "sid": 21996335,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oKvzNKok7w-zoz**",
+                        "uploader_follower_num": 93,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T001R150x150M0000042Jv500agJEG_8.jpg",
+                        "uploader_nick": "劉先生的信箱",
+                        "uploader_uin": "1409356203",
+                        "vid": "012VM49M2YAkFJ",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000003kd8SU3tjo7Y.jpg",
+                        "desc": "",
+                        "duration": 42,
+                        "gmid": "0148YkBQ2liOhW",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "拥有你就拥有全世界，无论你变成什么样子，我都喜欢你，真的。",
+                        "playcnt": 6392,
+                        "pubdate": 1649766121,
+                        "sid": 22007778,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "owEPoi4FoeoPon**",
+                        "uploader_follower_num": 248,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/6f7745506f6934466f656f506f6e2a2a-1646361283/140",
+                        "uploader_nick": "magic音乐",
+                        "uploader_uin": "2943580340",
+                        "vid": "0148YkBQ2liOhW",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000004WSsmg1IaLXG.jpg",
+                        "desc": "没见过系列～\n救命宝宝太甜了吧！！！！！我心动了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+                        "duration": 105,
+                        "gmid": "014UtsTV3Lp7nw",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "《告白气球》蔡徐坤",
+                        "playcnt": 27332,
+                        "pubdate": 1649772774,
+                        "sid": 22009352,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oK6kowEAoK4z7ecPoeczoiEz7z**",
+                        "uploader_follower_num": 157,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://pic6.y.qq.com/qqmusic/avatar/6f4b366b6f7745416f4b347a376563506f65637a6f69457a377a2a2a-1651761773/140",
+                        "uploader_nick": "阳光宅女",
+                        "uploader_uin": "1152921504840803907",
+                        "vid": "014UtsTV3Lp7nw",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000004c1dqD32IoRB.jpg",
+                        "desc": "周杰伦 林俊杰 《晴天》+《安静》+《修炼爱情+最长的电影》",
+                        "duration": 183,
+                        "gmid": "0114AwUz3qJSbT",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "周杰伦 林俊杰 《晴天》+《安静》+《修炼爱情+最长的电影》",
+                        "playcnt": 93340,
+                        "pubdate": 1649861180,
+                        "sid": 22031100,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oKCqoioFNKEANv**",
+                        "uploader_follower_num": 40116,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1136020.png",
+                        "uploader_nick": "唱给你听",
+                        "uploader_uin": "1693389929",
+                        "vid": "0114AwUz3qJSbT",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000002mwK1r1Ab2ky.jpg",
+                        "desc": "  \n",
+                        "duration": 22,
+                        "gmid": "0128m5Qt3a9IFo",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "“仁慈的父我已坠入看不见罪的国度请原谅我的自负”",
+                        "playcnt": 79381,
+                        "pubdate": 1649943828,
+                        "sid": 22053993,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oivFoK-z7inlNn**",
+                        "uploader_follower_num": 8519,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://thirdqq.qlogo.cn/g?b=sdk&k=GbOtrmLLntLOKYAImvHSNQ&s=140&t=1653031478",
+                        "uploader_nick": "w",
+                        "uploader_uin": "3481207078",
+                        "vid": "0128m5Qt3a9IFo",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T053R750x750M000001FZmTO31tYvX.jpg",
+                        "desc": "\n 周杰伦总是能把男女之间的暧昧氛围描述的尽善尽美",
+                        "duration": 213,
+                        "gmid": "0121qxGi2QvWS9",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "告白气球：周杰伦几首经典的歌曲中，这首最温柔",
+                        "playcnt": 969,
+                        "pubdate": 1649990840,
+                        "sid": 22065260,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "7e-q7K6ANeos7c**",
+                        "uploader_follower_num": 146,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "http://y.gtimg.cn/music/photo_new/T017R300x300M0000020qtZ93vRE5x.jpg",
+                        "uploader_nick": "Jay的音乐迷",
+                        "uploader_uin": "4295128366",
+                        "vid": "0121qxGi2QvWS9",
+                        "video_switch": 536870911
+                    },
+                    {
+                        "cover_pic": "https://y.gtimg.cn/music/photo_new/T033R560x560M000001ayrAP2uQ31M.jpg",
+                        "desc": "实力乐队赛道 >> 北部大区 北京赛区 >> 北京林业大学  李吉尧",
+                        "duration": 215,
+                        "gmid": "014JODNx2liyto",
+                        "isfav": 0,
+                        "msg": "",
+                        "name": "《告白气球》",
+                        "playcnt": 793,
+                        "pubdate": 1649995810,
+                        "sid": 22067657,
+                        "singers": [],
+                        "type": 1,
+                        "uploader_encuin": "oK6kowEAoK4z7K6q7iCs7KvlNv**",
+                        "uploader_follower_num": 0,
+                        "uploader_hasfollow": 0,
+                        "uploader_headurl": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eribeEmlyZjmaG7s5gJ6rQ8zcfLrDysPtdDr8ISC2Y5jXsibibY8JF5BJn4XQeVUKKnQEUDMZVZibvVuw/132",
+                        "uploader_nick": "萌萌哒",
+                        "uploader_uin": "1152921505197665479",
+                        "vid": "014JODNx2liyto",
+                        "video_switch": 536870911
+                    }
+                ],
+                "title": "相关视频",
+                "trace": [
+                    "2_0_11_8_140752_8_22157798_5002|4558|0_4229454107322267674_1",
+                    "2_0_11_8_140752_8_22110624_5002|4558|1_4229454107322267674_2",
+                    "2_0_11_8_140752_8_22133504_5002|4558|2_4229454107322267674_3",
+                    "2_0_11_8_140752_8_22148881_5005|107192078|3_4229454107322267674_4",
+                    "2_0_11_8_140752_8_22153718_5002|4558|4_4229454107322267674_5",
+                    "2_0_11_8_140752_8_22154688_5005|107192078|5_4229454107322267674_6",
+                    "2_0_11_8_140752_8_22155025_5002|4558|6_4229454107322267674_7",
+                    "2_0_11_8_140752_8_22155151_5002|4558|7_4229454107322267674_8",
+                    "2_0_11_8_140752_8_22155224_5002|4558|8_4229454107322267674_9",
+                    "2_0_11_8_140752_8_22155664_5002|4558|9_4229454107322267674_10",
+                    "2_0_11_8_140752_8_22108878_5002|4558|10_4229454107322267674_11",
+                    "2_0_11_8_140752_8_22158008_5002|4558|11_4229454107322267674_12",
+                    "2_0_11_8_140752_8_22159071_5002|4558|12_4229454107322267674_13",
+                    "2_0_11_8_140752_8_22172836_5002|4558|13_4229454107322267674_14",
+                    "2_0_11_8_140752_8_22172933_5002|4558|14_4229454107322267674_15",
+                    "2_0_11_8_140752_8_22174159_5002|4558|15_4229454107322267674_16",
+                    "2_0_11_8_140752_8_22174460_5002|4558|16_4229454107322267674_17",
+                    "2_0_11_8_140752_8_22174849_5002|4558|17_4229454107322267674_18",
+                    "2_0_11_8_140752_8_22177308_5002|4558|18_4229454107322267674_19",
+                    "2_0_11_8_140752_8_22177319_5002|4558|19_4229454107322267674_20",
+                    "2_0_11_8_140752_8_22073877_5002|4558|20_4229454107322267674_21",
+                    "2_0_11_8_140752_8_21974627_5002|4558|21_4229454107322267674_22",
+                    "2_0_11_8_140752_8_21977392_5002|4558|22_4229454107322267674_23",
+                    "2_0_11_8_140752_8_21996335_5002|4558|23_4229454107322267674_24",
+                    "2_0_11_8_140752_8_22007778_5005|107192078|24_4229454107322267674_25",
+                    "2_0_11_8_140752_8_22009352_5005|107192078|25_4229454107322267674_26",
+                    "2_0_11_8_140752_8_22031100_5002|4558|26_4229454107322267674_27",
+                    "2_0_11_8_140752_8_22053993_5002|4558|27_4229454107322267674_28",
+                    "2_0_11_8_140752_8_22065260_5005|107192078|28_4229454107322267674_29",
+                    "2_0_11_8_140752_8_22067657_5005|107192078|29_4229454107322267674_30"
+                ]
+            }
+        },
+        "playLists": {
+            "f10": [],
+            "f20": [],
+            "f30": [],
+            "f40": []
         }
     }
 }

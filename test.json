@@ -1,227 +1,579 @@
 {
     "response": {
         "code": 0,
-        "ts": 1659424565421,
-        "start_ts": 1659424565337,
-        "traceid": "300d3ca905e6b532",
-        "songinfo": {
-            "code": 0,
-            "data": {
-                "info": {
-                    "company": {
-                        "title": "唱片公司",
-                        "type": "JUMP_TO_COMPANY",
-                        "content": [
-                            {
-                                "id": 0,
-                                "value": "武汉熊哥熊弟音乐有限公司",
-                                "mid": "",
-                                "type": 0,
-                                "show_type": 0,
-                                "is_parent": 0,
-                                "picurl": "",
-                                "read_cnt": 0,
-                                "author": "",
-                                "jumpurl": "",
-                                "ori_picurl": ""
-                            }
-                        ],
-                        "pos": 51,
-                        "more": 0,
-                        "selected": "company",
-                        "use_platform": 1
-                    },
-                    "genre": {
-                        "title": "歌曲流派",
-                        "type": "JUMP_TO_CATEGORY",
-                        "content": [
-                            {
-                                "id": 40,
-                                "value": "Pop",
-                                "mid": "",
-                                "type": 0,
-                                "show_type": 2,
-                                "is_parent": 0,
-                                "picurl": "",
-                                "read_cnt": 0,
-                                "author": "",
-                                "jumpurl": "http://y.qq.com/m/client/categoryzone/detail.html?categoryId=40&showType=2&isParent=0&_hidehd=1&groupId=100",
-                                "ori_picurl": ""
-                            }
-                        ],
-                        "pos": 12,
-                        "more": 0,
-                        "selected": "genre",
-                        "use_platform": 3
-                    },
-                    "lan": {
-                        "title": "歌曲语种",
-                        "type": "JUMP_TO_CATEGORY",
-                        "content": [
-                            {
-                                "id": 1,
-                                "value": "国语",
-                                "mid": "",
-                                "type": 0,
-                                "show_type": 2,
-                                "is_parent": 0,
-                                "picurl": "",
-                                "read_cnt": 0,
-                                "author": "",
-                                "jumpurl": "http://y.qq.com/m/client/categoryzone/detail.html?categoryId=1&showType=2&isParent=0&_hidehd=1&groupId=100",
-                                "ori_picurl": ""
-                            }
-                        ],
-                        "pos": 11,
-                        "more": 0,
-                        "selected": "lan",
-                        "use_platform": 3
-                    },
-                    "pub_time": {
-                        "title": "发行时间",
-                        "type": "desc",
-                        "content": [
-                            {
-                                "id": 0,
-                                "value": "2022-05-19",
-                                "mid": "",
-                                "type": 0,
-                                "show_type": 0,
-                                "is_parent": 0,
-                                "picurl": "",
-                                "read_cnt": 0,
-                                "author": "",
-                                "jumpurl": "",
-                                "ori_picurl": ""
-                            }
-                        ],
-                        "pos": 50,
-                        "more": 0,
-                        "selected": "pub_time",
-                        "use_platform": 0
-                    }
-                },
-                "extras": {
-                    "name": "三国恋 (2022正版授权)",
-                    "transname": "",
-                    "subtitle": "",
-                    "from": "12",
-                    "wikiurl": ""
-                },
-                "track_info": {
-                    "id": 356624366,
-                    "type": 0,
-                    "mid": "002noKdJ283ela",
-                    "name": "三国恋",
-                    "title": "三国恋 (2022正版授权)",
-                    "subtitle": "",
-                    "singer": [
+        "subcode": 0,
+        "message": "",
+        "default": 0,
+        "data": {
+            "topList": [
+                {
+                    "id": 4,
+                    "listenCount": 9148400,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000er77501mF65.jpg",
+                    "songList": [
                         {
-                            "id": 3907389,
-                            "mid": "001GbV3t1S3VZD",
-                            "name": "王巨星",
-                            "title": "王巨星",
-                            "type": 0,
-                            "uin": 0
+                            "singername": "NewJeans (뉴진스)",
+                            "songname": "Hype Boy"
+                        },
+                        {
+                            "singername": "NewJeans (뉴진스)",
+                            "songname": "Attention"
+                        },
+                        {
+                            "singername": "迟里乌布/Morerare",
+                            "songname": "簇拥烈日的花"
                         }
                     ],
-                    "album": {
-                        "id": 27809187,
-                        "mid": "003LAFBE1LtjF4",
-                        "name": "三国恋",
-                        "title": "三国恋",
-                        "subtitle": "",
-                        "time_public": "2022-05-19",
-                        "pmid": "003LAFBE1LtjF4_1"
-                    },
-                    "mv": {
-                        "id": 0,
-                        "vid": "",
-                        "name": "",
-                        "title": "",
-                        "vt": 0
-                    },
-                    "interval": 221,
-                    "isonly": 0,
-                    "language": 0,
-                    "genre": 1,
-                    "index_cd": 0,
-                    "index_album": 1,
-                    "time_public": "2022-05-19",
-                    "status": 0,
-                    "fnote": 4009,
-                    "file": {
-                        "media_mid": "004MUtJ34RZivV",
-                        "size_24aac": 0,
-                        "size_48aac": 1341507,
-                        "size_96aac": 2693176,
-                        "size_192ogg": 5293672,
-                        "size_192aac": 5338701,
-                        "size_128mp3": 3540748,
-                        "size_320mp3": 8851546,
-                        "size_ape": 0,
-                        "size_flac": 27916891,
-                        "size_dts": 0,
-                        "size_try": 481070,
-                        "try_begin": 0,
-                        "try_end": 0,
-                        "url": "",
-                        "size_hires": 0,
-                        "hires_sample": 0,
-                        "hires_bitdepth": 0,
-                        "b_30s": 0,
-                        "e_30s": 30000,
-                        "size_96ogg": 2603516,
-                        "size_360ra": []
-                    },
-                    "pay": {
-                        "pay_month": 0,
-                        "price_track": 0,
-                        "price_album": 0,
-                        "pay_play": 0,
-                        "pay_down": 0,
-                        "pay_status": 0,
-                        "time_free": 0
-                    },
-                    "action": {
-                        "switch": 1,
-                        "msgid": 23,
-                        "alert": 0,
-                        "icons": 8929148,
-                        "msgshare": 0,
-                        "msgfav": 0,
-                        "msgdown": 0,
-                        "msgpay": 0
-                    },
-                    "ksong": {
-                        "id": 24407080,
-                        "mid": "00267jse2CgCUn"
-                    },
-                    "volume": {
-                        "gain": -7.325,
-                        "peak": 0.995,
-                        "lra": 5.351
-                    },
-                    "label": "0",
-                    "url": "",
-                    "bpm": 0,
-                    "version": 0,
-                    "trace": "",
-                    "data_type": 8,
-                    "modify_stamp": 0,
-                    "pingpong": "",
-                    "ppurl": "",
-                    "tid": 0,
-                    "ov": 0,
-                    "sa": 2048,
-                    "es": "",
-                    "vs": [
-                        "062X5eiF1roezL",
-                        "",
-                        ""
-                    ]
+                    "topTitle": "巅峰榜·流行指数",
+                    "type": 0
+                },
+                {
+                    "id": 26,
+                    "listenCount": 19100000,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000002foVW0q1IHs.jpg",
+                    "songList": [
+                        {
+                            "singername": "古巨基",
+                            "songname": "必杀技"
+                        },
+                        {
+                            "singername": "LBI利比",
+                            "songname": "小城夏天"
+                        },
+                        {
+                            "singername": "蔡健雅",
+                            "songname": "Letting Go"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·热歌",
+                    "type": 0
+                },
+                {
+                    "id": 27,
+                    "listenCount": 373371,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002li4fy4TckTm.jpg",
+                    "songList": [
+                        {
+                            "singername": "时代少年团",
+                            "songname": "绝配"
+                        },
+                        {
+                            "singername": "告五人",
+                            "songname": "给你一瓶魔法药水"
+                        },
+                        {
+                            "singername": "蔡徐坤",
+                            "songname": "Hug me"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·新歌",
+                    "type": 0
+                },
+                {
+                    "id": 62,
+                    "listenCount": 19170832,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000VSKN31rO8sL.jpg",
+                    "songList": [
+                        {
+                            "singername": "NewJeans (뉴진스)",
+                            "songname": "Hype Boy"
+                        },
+                        {
+                            "singername": "NewJeans (뉴진스)",
+                            "songname": "Attention"
+                        },
+                        {
+                            "singername": "NewJeans (뉴진스)",
+                            "songname": "Hurt"
+                        }
+                    ],
+                    "topTitle": "飙升榜",
+                    "type": 0
+                },
+                {
+                    "id": 58,
+                    "listenCount": 2298240,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002yiXGh1k0vm9.jpg",
+                    "songList": [
+                        {
+                            "singername": "时代少年团",
+                            "songname": "绝配"
+                        },
+                        {
+                            "singername": "盛宇DamnShine/KEY.L刘聪/ICE",
+                            "songname": "隆里电丝 (Live)"
+                        },
+                        {
+                            "singername": "周杰伦",
+                            "songname": "最伟大的作品"
+                        }
+                    ],
+                    "topTitle": "说唱榜",
+                    "type": 0
+                },
+                {
+                    "id": 57,
+                    "listenCount": 1692360,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000008iBBh1KUsNh.jpg",
+                    "songList": [
+                        {
+                            "singername": "The Chainsmokers/Bob Moses",
+                            "songname": "Why Can't You Wait"
+                        },
+                        {
+                            "singername": "Calvin Harris/Justin Timberlake/Halsey/Pharrell Williams",
+                            "songname": "Stay With Me"
+                        },
+                        {
+                            "singername": "Martin Garrix/DallasK/Sasha Alex Sloan",
+                            "songname": "Loop (Explicit)"
+                        }
+                    ],
+                    "topTitle": "喜力电音榜",
+                    "type": 0
+                },
+                {
+                    "id": 28,
+                    "listenCount": 5342140,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000W6WTh06tadY.jpg",
+                    "songList": [
+                        {
+                            "singername": "半吨兄弟",
+                            "songname": "对你说"
+                        },
+                        {
+                            "singername": "魏佳艺",
+                            "songname": "我来人间一趟"
+                        },
+                        {
+                            "singername": "半吨兄弟",
+                            "songname": "心要让你听见"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·网络歌曲",
+                    "type": 0
+                },
+                {
+                    "id": 5,
+                    "listenCount": 1921830,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000016RqcN2i2qXK.jpg",
+                    "songList": [
+                        {
+                            "singername": "蔡徐坤",
+                            "songname": "Hug me"
+                        },
+                        {
+                            "singername": "时代少年团",
+                            "songname": "绝配"
+                        },
+                        {
+                            "singername": "苏星婕",
+                            "songname": "把回忆拼好给你 (正版授权)"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·内地",
+                    "type": 0
+                },
+                {
+                    "id": 3,
+                    "listenCount": 2222780,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002V3kxb4Xle0t.jpg",
+                    "songList": [
+                        {
+                            "singername": "The Chainsmokers",
+                            "songname": "Time Bomb (Explicit)"
+                        },
+                        {
+                            "singername": "Billie Eilish",
+                            "songname": "TV"
+                        },
+                        {
+                            "singername": "Porter Robinson/英雄联盟",
+                            "songname": "Everything Goes On (群星依旧)"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·欧美",
+                    "type": 0
+                },
+                {
+                    "id": 59,
+                    "listenCount": 833420,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002x43ez4e6QAW.jpg",
+                    "songList": [
+                        {
+                            "singername": "容祖儿",
+                            "songname": "就让这大雨全都落下"
+                        },
+                        {
+                            "singername": "MC 张天赋",
+                            "songname": "老派约会之必要"
+                        },
+                        {
+                            "singername": "陈小春",
+                            "songname": "传奇天下"
+                        }
+                    ],
+                    "topTitle": "香港地区榜",
+                    "type": 0
+                },
+                {
+                    "id": 16,
+                    "listenCount": 1990000,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001BG5iR1zqCEX.jpg",
+                    "songList": [
+                        {
+                            "singername": "BoA (宝儿)/刘雨昕",
+                            "songname": "Better"
+                        },
+                        {
+                            "singername": "ITZY (있지)",
+                            "songname": "SNEAKERS"
+                        },
+                        {
+                            "singername": "aespa (에스파)",
+                            "songname": "Girls"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·韩国",
+                    "type": 0
+                },
+                {
+                    "id": 60,
+                    "listenCount": 7930180,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003ol9B32FVhQg.jpg",
+                    "songList": [
+                        {
+                            "singername": "蔡徐坤",
+                            "songname": "Hug me"
+                        },
+                        {
+                            "singername": "陈奕迅",
+                            "songname": "孤勇者"
+                        },
+                        {
+                            "singername": "盛哲",
+                            "songname": "在你的身边"
+                        }
+                    ],
+                    "topTitle": "抖快榜",
+                    "type": 0
+                },
+                {
+                    "id": 29,
+                    "listenCount": 812210,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002QAyvj4Av28X.jpg",
+                    "songList": [
+                        {
+                            "singername": "周深",
+                            "songname": "你的样子"
+                        },
+                        {
+                            "singername": "ANU",
+                            "songname": "飞"
+                        },
+                        {
+                            "singername": "张杰",
+                            "songname": "红尘录"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·影视金曲",
+                    "type": 0
+                },
+                {
+                    "id": 17,
+                    "listenCount": 515809,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000049FKa124c0vk.jpg",
+                    "songList": [
+                        {
+                            "singername": "ヨルシカ (Yorushika)",
+                            "songname": "左右盲"
+                        },
+                        {
+                            "singername": "星野源 (ほしの げん)/おばけ",
+                            "songname": "異世界混合大舞踏会 (feat. おばけ)"
+                        },
+                        {
+                            "singername": "米津玄師 (よねづ けんし)",
+                            "songname": "M八七"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·日本",
+                    "type": 0
+                },
+                {
+                    "id": 201,
+                    "listenCount": 1910000,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004EogEN0j9wbU.jpg",
+                    "songList": [
+                        {
+                            "singername": "周杰伦",
+                            "songname": "最伟大的作品 / Greatest Works of Art"
+                        },
+                        {
+                            "singername": "周杰伦",
+                            "songname": "还在流浪"
+                        },
+                        {
+                            "singername": "刘雨昕",
+                            "songname": "Boom Tick Boom"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·MV",
+                    "type": 0
+                },
+                {
+                    "id": 52,
+                    "listenCount": 516002,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003KCBR10jOUhq.jpg",
+                    "songList": [
+                        {
+                            "singername": "枯木逢春",
+                            "songname": "听风"
+                        },
+                        {
+                            "singername": "朱婧汐JING/Chace",
+                            "songname": "骨头 Over The Bones"
+                        },
+                        {
+                            "singername": "张羽涵",
+                            "songname": "此单曲仅限18岁以下收听"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·腾讯音乐人原创榜",
+                    "type": 0
+                },
+                {
+                    "id": 36,
+                    "listenCount": 952770,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002oWf5m3HXI5o.jpg",
+                    "songList": [
+                        {
+                            "singername": "Zyboy忠宇",
+                            "songname": "妈妈的话"
+                        },
+                        {
+                            "singername": "王心凌",
+                            "songname": "爱你"
+                        },
+                        {
+                            "singername": "莫文蔚",
+                            "songname": "这世界那么多人"
+                        }
+                    ],
+                    "topTitle": "巅峰榜·K歌金曲",
+                    "type": 0
+                },
+                {
+                    "id": 61,
+                    "listenCount": 402093,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000mqQwO0LRvTV.jpg",
+                    "songList": [
+                        {
+                            "singername": "周杰伦",
+                            "songname": "最伟大的作品"
+                        },
+                        {
+                            "singername": "告五人",
+                            "songname": "给你一瓶魔法药水"
+                        },
+                        {
+                            "singername": "周杰伦",
+                            "songname": "还在流浪"
+                        }
+                    ],
+                    "topTitle": "台湾地区榜",
+                    "type": 0
+                },
+                {
+                    "id": 63,
+                    "listenCount": 9066260,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000CM5Sv0YFp40.jpg",
+                    "songList": [
+                        {
+                            "singername": "刘至佳",
+                            "songname": "鲸语 (DJ楠哈哈版)"
+                        },
+                        {
+                            "singername": "DJ小鱼儿",
+                            "songname": "黑桃A"
+                        },
+                        {
+                            "singername": "AtleastYi",
+                            "songname": "小情歌"
+                        }
+                    ],
+                    "topTitle": "DJ舞曲榜",
+                    "type": 0
+                },
+                {
+                    "id": 64,
+                    "listenCount": 571270,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000019I1rg37Kdzc.jpg",
+                    "songList": [
+                        {
+                            "singername": "盛宇DamnShine/KEY.L刘聪/ICE",
+                            "songname": "隆里电丝 (Live)"
+                        },
+                        {
+                            "singername": "杨和苏KeyNG/王以太/早安",
+                            "songname": "一席之地 (Live)"
+                        },
+                        {
+                            "singername": "艾热AIR/王以太",
+                            "songname": "别怕变老 (Live)"
+                        }
+                    ],
+                    "topTitle": "综艺新歌榜",
+                    "type": 0
+                },
+                {
+                    "id": 65,
+                    "listenCount": 3561820,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003cqsEG1XAsnj.jpg",
+                    "songList": [
+                        {
+                            "singername": "周杰伦",
+                            "songname": "红颜如霜"
+                        },
+                        {
+                            "singername": "张靓颖",
+                            "songname": "偏星"
+                        },
+                        {
+                            "singername": "张杰",
+                            "songname": "红尘录"
+                        }
+                    ],
+                    "topTitle": "国风热歌榜",
+                    "type": 0
+                },
+                {
+                    "id": 67,
+                    "listenCount": 5938320,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003cm1ZG4JY9Pv.jpg",
+                    "songList": [
+                        {
+                            "singername": "慢热的气球",
+                            "songname": "在你的身边 (0.8x)"
+                        },
+                        {
+                            "singername": "告五人",
+                            "songname": "给你一瓶魔法药水"
+                        },
+                        {
+                            "singername": "苏天伦",
+                            "songname": "拉个勾说永远爱我"
+                        }
+                    ],
+                    "topTitle": "听歌识曲榜",
+                    "type": 0
+                },
+                {
+                    "id": 72,
+                    "listenCount": 183471,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002QQJIF3VYQaX.jpg",
+                    "songList": [
+                        {
+                            "singername": "周深",
+                            "songname": "重生"
+                        },
+                        {
+                            "singername": "周深",
+                            "songname": "请带着浪漫远航"
+                        },
+                        {
+                            "singername": "希林娜依高",
+                            "songname": "唯我•念"
+                        }
+                    ],
+                    "topTitle": "动漫音乐榜",
+                    "type": 0
+                },
+                {
+                    "id": 73,
+                    "listenCount": 273711,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000007tfBv2m4ncC.jpg",
+                    "songList": [
+                        {
+                            "singername": "孙燕姿",
+                            "songname": "擒光"
+                        },
+                        {
+                            "singername": "Porter Robinson/英雄联盟",
+                            "songname": "Everything Goes On (群星依旧)"
+                        },
+                        {
+                            "singername": "陈小春",
+                            "songname": "传奇天下"
+                        }
+                    ],
+                    "topTitle": "游戏音乐榜",
+                    "type": 0
+                },
+                {
+                    "id": 75,
+                    "listenCount": 332581,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001IO6UU3HuYSP.jpg",
+                    "songList": [
+                        {
+                            "singername": "回家说事",
+                            "songname": "六至道尊丨万人在线收听丨热播榜No.1"
+                        },
+                        {
+                            "singername": "主播懒愚/主播醒时梦/主播河川/主播大师兄孟谦",
+                            "songname": "斗破苍穹丨斗魂化翼，一啸破苍穹"
+                        },
+                        {
+                            "singername": "说书的小唐",
+                            "songname": "校花的贴身高手丨火爆十年的都市神作"
+                        }
+                    ],
+                    "topTitle": "有声榜",
+                    "type": 0
+                },
+                {
+                    "id": 131,
+                    "listenCount": 365231,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000023FcQb3yAjGP.jpg",
+                    "songList": [
+                        {
+                            "singername": "梁铭琛",
+                            "songname": "乌鸦旅馆"
+                        },
+                        {
+                            "singername": "江迟同学",
+                            "songname": "我们会在晚风里遇见"
+                        },
+                        {
+                            "singername": "指尖笑",
+                            "songname": "伴霓裳"
+                        }
+                    ],
+                    "topTitle": "校园音乐人排行榜",
+                    "type": 0
+                },
+                {
+                    "id": 70,
+                    "listenCount": 437751,
+                    "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004fpay73hPgLb.jpg",
+                    "songList": [
+                        {
+                            "singername": "山复尔漫",
+                            "songname": "爱情三十六计"
+                        },
+                        {
+                            "singername": "田浩宇",
+                            "songname": "樱花树下的约定 (Live)"
+                        },
+                        {
+                            "singername": "误",
+                            "songname": "多远都要在一起 (Live)"
+                        }
+                    ],
+                    "topTitle": "达人音乐榜",
+                    "type": 0
                 }
-            }
+            ]
         }
     }
 }

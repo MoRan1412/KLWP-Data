@@ -81,7 +81,8 @@
                 "Commend": "https://qq-music-api-2845815262.vercel.app/getComments?id=<singid>",
                 "MusicDownload": "https://qq-music-api-2845815262.vercel.app/getMusicPlay?songmid=<m_id>",
                 "MVDownload": "https://qq-music-api-2845815262.vercel.app/getMvPlay?vid=<v_id>",
-                "Pic":"https://qq-music-api-2845815262.vercel.app/getImageUrl?id=<m_id>"
+                "Pic":"https://qq-music-api-2845815262.vercel.app/getImageUrl?id=<m_id>",
+                "TopList":"https://qq-music-api-2845815262.vercel.app/getTopLists"
             },
             "pt":{
                 "Lyric":"response.lyric"

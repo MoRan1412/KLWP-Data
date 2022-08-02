@@ -1,74 +1,227 @@
 {
     "response": {
         "code": 0,
-        "data": {
-            "album": {
-                "count": 1,
-                "itemlist": [
-                    {
-                        "docid": "27809187",
-                        "id": "27809187",
+        "ts": 1659424565421,
+        "start_ts": 1659424565337,
+        "traceid": "300d3ca905e6b532",
+        "songinfo": {
+            "code": 0,
+            "data": {
+                "info": {
+                    "company": {
+                        "title": "唱片公司",
+                        "type": "JUMP_TO_COMPANY",
+                        "content": [
+                            {
+                                "id": 0,
+                                "value": "武汉熊哥熊弟音乐有限公司",
+                                "mid": "",
+                                "type": 0,
+                                "show_type": 0,
+                                "is_parent": 0,
+                                "picurl": "",
+                                "read_cnt": 0,
+                                "author": "",
+                                "jumpurl": "",
+                                "ori_picurl": ""
+                            }
+                        ],
+                        "pos": 51,
+                        "more": 0,
+                        "selected": "company",
+                        "use_platform": 1
+                    },
+                    "genre": {
+                        "title": "歌曲流派",
+                        "type": "JUMP_TO_CATEGORY",
+                        "content": [
+                            {
+                                "id": 40,
+                                "value": "Pop",
+                                "mid": "",
+                                "type": 0,
+                                "show_type": 2,
+                                "is_parent": 0,
+                                "picurl": "",
+                                "read_cnt": 0,
+                                "author": "",
+                                "jumpurl": "http://y.qq.com/m/client/categoryzone/detail.html?categoryId=40&showType=2&isParent=0&_hidehd=1&groupId=100",
+                                "ori_picurl": ""
+                            }
+                        ],
+                        "pos": 12,
+                        "more": 0,
+                        "selected": "genre",
+                        "use_platform": 3
+                    },
+                    "lan": {
+                        "title": "歌曲语种",
+                        "type": "JUMP_TO_CATEGORY",
+                        "content": [
+                            {
+                                "id": 1,
+                                "value": "国语",
+                                "mid": "",
+                                "type": 0,
+                                "show_type": 2,
+                                "is_parent": 0,
+                                "picurl": "",
+                                "read_cnt": 0,
+                                "author": "",
+                                "jumpurl": "http://y.qq.com/m/client/categoryzone/detail.html?categoryId=1&showType=2&isParent=0&_hidehd=1&groupId=100",
+                                "ori_picurl": ""
+                            }
+                        ],
+                        "pos": 11,
+                        "more": 0,
+                        "selected": "lan",
+                        "use_platform": 3
+                    },
+                    "pub_time": {
+                        "title": "发行时间",
+                        "type": "desc",
+                        "content": [
+                            {
+                                "id": 0,
+                                "value": "2022-05-19",
+                                "mid": "",
+                                "type": 0,
+                                "show_type": 0,
+                                "is_parent": 0,
+                                "picurl": "",
+                                "read_cnt": 0,
+                                "author": "",
+                                "jumpurl": "",
+                                "ori_picurl": ""
+                            }
+                        ],
+                        "pos": 50,
+                        "more": 0,
+                        "selected": "pub_time",
+                        "use_platform": 0
+                    }
+                },
+                "extras": {
+                    "name": "三国恋 (2022正版授权)",
+                    "transname": "",
+                    "subtitle": "",
+                    "from": "12",
+                    "wikiurl": ""
+                },
+                "track_info": {
+                    "id": 356624366,
+                    "type": 0,
+                    "mid": "002noKdJ283ela",
+                    "name": "三国恋",
+                    "title": "三国恋 (2022正版授权)",
+                    "subtitle": "",
+                    "singer": [
+                        {
+                            "id": 3907389,
+                            "mid": "001GbV3t1S3VZD",
+                            "name": "王巨星",
+                            "title": "王巨星",
+                            "type": 0,
+                            "uin": 0
+                        }
+                    ],
+                    "album": {
+                        "id": 27809187,
                         "mid": "003LAFBE1LtjF4",
                         "name": "三国恋",
-                        "pic": "http://y.gtimg.cn/music/photo_new/T002R180x180M000003LAFBE1LtjF4_1.jpg",
-                        "singer": "王巨星"
-                    }
-                ],
-                "name": "专辑",
-                "order": 2,
-                "type": 3
-            },
-            "mv": {
-                "count": 0,
-                "itemlist": [],
-                "name": "MV",
-                "order": 3,
-                "type": 4
-            },
-            "singer": {
-                "count": 0,
-                "itemlist": [],
-                "name": "歌手",
-                "order": 1,
-                "type": 2
-            },
-            "song": {
-                "count": 4,
-                "itemlist": [
-                    {
-                        "docid": "356624366",
-                        "id": "356624366",
-                        "mid": "002noKdJ283ela",
-                        "name": "三国恋",
-                        "singer": "王巨星"
+                        "title": "三国恋",
+                        "subtitle": "",
+                        "time_public": "2022-05-19",
+                        "pmid": "003LAFBE1LtjF4_1"
                     },
-                    {
-                        "docid": "356618248",
-                        "id": "356618248",
-                        "mid": "000wJWes2jTLTy",
-                        "name": "《三国恋》王巨星：等待良人归来那一刻 眼泪为你唱歌",
-                        "singer": "卿听盲盒"
+                    "mv": {
+                        "id": 0,
+                        "vid": "",
+                        "name": "",
+                        "title": "",
+                        "vt": 0
                     },
-                    {
-                        "docid": "359824177",
-                        "id": "359824177",
-                        "mid": "004A3TlQ4IQXdg",
-                        "name": "《三国恋》王巨星",
-                        "singer": "大喜有声"
+                    "interval": 221,
+                    "isonly": 0,
+                    "language": 0,
+                    "genre": 1,
+                    "index_cd": 0,
+                    "index_album": 1,
+                    "time_public": "2022-05-19",
+                    "status": 0,
+                    "fnote": 4009,
+                    "file": {
+                        "media_mid": "004MUtJ34RZivV",
+                        "size_24aac": 0,
+                        "size_48aac": 1341507,
+                        "size_96aac": 2693176,
+                        "size_192ogg": 5293672,
+                        "size_192aac": 5338701,
+                        "size_128mp3": 3540748,
+                        "size_320mp3": 8851546,
+                        "size_ape": 0,
+                        "size_flac": 27916891,
+                        "size_dts": 0,
+                        "size_try": 481070,
+                        "try_begin": 0,
+                        "try_end": 0,
+                        "url": "",
+                        "size_hires": 0,
+                        "hires_sample": 0,
+                        "hires_bitdepth": 0,
+                        "b_30s": 0,
+                        "e_30s": 30000,
+                        "size_96ogg": 2603516,
+                        "size_360ra": []
                     },
-                    {
-                        "docid": "369246207",
-                        "id": "369246207",
-                        "mid": "002DCctW2dKmwQ",
-                        "name": "《三国恋》王巨星：如果没听完我会伤心的OK",
-                        "singer": "宝藏挖掘机"
-                    }
-                ],
-                "name": "单曲",
-                "order": 0,
-                "type": 1
+                    "pay": {
+                        "pay_month": 0,
+                        "price_track": 0,
+                        "price_album": 0,
+                        "pay_play": 0,
+                        "pay_down": 0,
+                        "pay_status": 0,
+                        "time_free": 0
+                    },
+                    "action": {
+                        "switch": 1,
+                        "msgid": 23,
+                        "alert": 0,
+                        "icons": 8929148,
+                        "msgshare": 0,
+                        "msgfav": 0,
+                        "msgdown": 0,
+                        "msgpay": 0
+                    },
+                    "ksong": {
+                        "id": 24407080,
+                        "mid": "00267jse2CgCUn"
+                    },
+                    "volume": {
+                        "gain": -7.325,
+                        "peak": 0.995,
+                        "lra": 5.351
+                    },
+                    "label": "0",
+                    "url": "",
+                    "bpm": 0,
+                    "version": 0,
+                    "trace": "",
+                    "data_type": 8,
+                    "modify_stamp": 0,
+                    "pingpong": "",
+                    "ppurl": "",
+                    "tid": 0,
+                    "ov": 0,
+                    "sa": 2048,
+                    "es": "",
+                    "vs": [
+                        "062X5eiF1roezL",
+                        "",
+                        ""
+                    ]
+                }
             }
-        },
-        "subcode": 0
+        }
     }
 }

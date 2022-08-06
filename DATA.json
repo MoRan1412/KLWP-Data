@@ -47,7 +47,7 @@
                 "MusicDownload": "https://163music-mo-ran.vercel.app/song/url?id=<m_id>&cookie=<m_cookie>&realIP=<ip>",
                 "Commend": "https://163music-mo-ran.vercel.app/comment/music?id=<m_id>&realIP=<ip>",
                 "CommentLike": "https://163music-mo-ran.vercel.app/comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>&realIP=<ip>",
-                "Record": "https://163music-mo-ran.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=1&realIP=<ip>",
+                "Record": "https://163music-mo-ran.vercel.app/user/record?uid=<m_uid>&cookie=<m_cookie>&type=<record_type>&realIP=<ip>",
                 "MusicSearch": "https://163music-mo-ran.vercel.app/search?type=1&realIP=<ip>&keywords=",
                 "Lyric": "https://163music-mo-ran.vercel.app/lyric?realIP=<ip>&id=",
                 "AccountDetail": "https://163music-mo-ran.vercel.app/user/detail?uid=<m_uid>&cookie=<m_cookie>&realIP=<ip>",

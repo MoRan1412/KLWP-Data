@@ -1,0 +1,168 @@
+{
+    "songs": [
+        {
+            "name": "STAY",
+            "id": 1859245776,
+            "pst": 0,
+            "t": 0,
+            "ar": [
+                {
+                    "id": 32795025,
+                    "name": "The Kid LAROI",
+                    "tns": [],
+                    "alias": []
+                },
+                {
+                    "id": 35531,
+                    "name": "Justin Bieber",
+                    "tns": [],
+                    "alias": []
+                }
+            ],
+            "alia": [],
+            "pop": 100,
+            "st": 0,
+            "rt": "",
+            "fee": 8,
+            "v": 21,
+            "crbt": null,
+            "cf": "",
+            "al": {
+                "id": 130016223,
+                "name": "STAY",
+                "picUrl": "https://p1.music.126.net/e5cvcdgeosDKTDrkTfZXnQ==/109951166155165682.jpg",
+                "tns": [],
+                "pic_str": "109951166155165682",
+                "pic": 109951166155165680
+            },
+            "dt": 141810,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 5674605,
+                "vd": -65830,
+                "sr": 48000
+            },
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 3404781,
+                "vd": -63245,
+                "sr": 48000
+            },
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 2269869,
+                "vd": -61603,
+                "sr": 48000
+            },
+            "sq": {
+                "br": 940865,
+                "fid": 0,
+                "size": 16678024,
+                "vd": -65829,
+                "sr": 48000
+            },
+            "hr": {
+                "br": 1700709,
+                "fid": 0,
+                "size": 30147193,
+                "vd": -65830,
+                "sr": 48000
+            },
+            "a": null,
+            "cd": "01",
+            "no": 1,
+            "rtUrl": null,
+            "ftype": 0,
+            "rtUrls": [],
+            "djId": 0,
+            "copyright": 1,
+            "s_id": 0,
+            "mark": 538189824,
+            "originCoverType": 1,
+            "originSongSimpleData": null,
+            "tagPicList": null,
+            "resourceState": true,
+            "version": 21,
+            "songJumpInfo": null,
+            "entertainmentTags": null,
+            "awardTags": null,
+            "single": 0,
+            "noCopyrightRcmd": null,
+            "rtype": 0,
+            "rurl": null,
+            "mst": 9,
+            "cp": 7001,
+            "mv": 14298179,
+            "publishTime": 1625760000000
+        }
+    ],
+    "privileges": [
+        {
+            "id": 1859245776,
+            "fee": 8,
+            "payed": 1,
+            "st": 0,
+            "pl": 999000,
+            "dl": 999000,
+            "sp": 7,
+            "cp": 1,
+            "subp": 1,
+            "cs": false,
+            "maxbr": 999000,
+            "fl": 128000,
+            "toast": false,
+            "flag": 4,
+            "preSell": false,
+            "playMaxbr": 999000,
+            "downloadMaxbr": 999000,
+            "maxBrLevel": "hires",
+            "playMaxBrLevel": "hires",
+            "downloadMaxBrLevel": "hires",
+            "plLevel": "hires",
+            "dlLevel": "hires",
+            "flLevel": "standard",
+            "rscl": null,
+            "freeTrialPrivilege": {
+                "resConsumable": false,
+                "userConsumable": false,
+                "listenType": null
+            },
+            "chargeInfoList": [
+                {
+                    "rate": 128000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 0
+                },
+                {
+                    "rate": 192000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                },
+                {
+                    "rate": 320000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                },
+                {
+                    "rate": 999000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                },
+                {
+                    "rate": 1999000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                }
+            ]
+        }
+    ],
+    "code": 200
+}

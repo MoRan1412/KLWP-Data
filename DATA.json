@@ -55,13 +55,13 @@
                 "Playlist": "https://autumnfish.cn/playlist/detail?id=<playlist_id>&realIP=<ip>",
                 "MusicData": "https://autumnfish.cn/song/detail?realIP=<ip>&ids=",
                 "LoginState": "https://autumnfish.cn/login/status",
-                "UserSongList": "https://163m.vercel.app/user/playlist?uid=<m_uid>&cookie=<m_cookie>&realIP=<ip>",
-                "getqrkey": "https://163m.vercel.app/login/qr/key?realIP=<ip>",
-                "getqrurl": "https://163m.vercel.app/login/qr/create?key=<qrkey>&qrimg=1&realIP=<ip>",
-                "getqrcheck": "https://163m.vercel.app/login/qr/check?key=<qrkey>&realIP=<ip>",
-                "phonesend": "https://163m.vercel.app/captcha/sent?phone=<phonenum>&ctcode=<ctcode>&realIP=<ip>",
-                "phoneverify": "https://163m.vercel.app/captcha/verify?phone=<phonenum>&captcha=<captcha>&ctcode=<ctcode>&realIP=<ip>",
-                "phonesignin": "https://163m.vercel.app/login/cellphone?phone=<phonenum>&captcha=<captcha>&countrycode=<ctcode>&realIP=<ip>"
+                "UserSongList": "https://autumnfish.cn/user/playlist?uid=<m_uid>&cookie=<m_cookie>&realIP=<ip>",
+                "getqrkey": "https://autumnfish.cn/login/qr/key?realIP=<ip>",
+                "getqrurl": "https://autumnfish.cn/login/qr/create?key=<qrkey>&qrimg=1&realIP=<ip>",
+                "getqrcheck": "https://autumnfish.cn/login/qr/check?key=<qrkey>&realIP=<ip>",
+                "phonesend": "https://autumnfish.cn/captcha/sent?phone=<phonenum>&ctcode=<ctcode>&realIP=<ip>",
+                "phoneverify": "https://autumnfish.cn/captcha/verify?phone=<phonenum>&captcha=<captcha>&ctcode=<ctcode>&realIP=<ip>",
+                "phonesignin": "https://autumnfish.cn/login/cellphone?phone=<phonenum>&captcha=<captcha>&countrycode=<ctcode>&realIP=<ip>"
             },
             "pt": {
                 "cookie": "..cookie",

@@ -76,14 +76,14 @@
         },
         "QQMusicApi": {
             "api": {
-                "MusicSearch": "https://qq-music-api-production.up.railway.app/getSmartbox?key=<keywords>",
-                "Lyric": "https://qq-music-api-production.up.railway.app/getLyric?songmid=<m_id>",
-                "MusicData": "https://qq-music-api-production.up.railway.app/getSongInfo?songmid=<m_id>",
-                "Commend": "https://qq-music-api-production.up.railway.app/getComments?id=<singid>",
-                "MusicDownload": "https://qq-music-api-production.up.railway.app/getMusicPlay?songmid=<m_id>",
-                "MVDownload": "https://qq-music-api-production.up.railway.app/getMvPlay?vid=<v_id>",
-                "Pic": "https://qq-music-api-production.up.railway.app/getImageUrl?id=<m_id>",
-                "TopList": "https://qq-music-api-production.up.railway.app/getTopLists"
+                "MusicSearch": "https://qqmusic.up.railway.app/getSmartbox?key=<keywords>",
+                "Lyric": "https://qqmusic.up.railway.app/getLyric?songmid=<m_id>",
+                "MusicData": "https://qqmusic.up.railway.app/getSongInfo?songmid=<m_id>",
+                "Commend": "https://qqmusic.up.railway.app/getComments?id=<singid>",
+                "MusicDownload": "https://qqmusic.up.railway.app/getMusicPlay?songmid=<m_id>",
+                "MVDownload": "https://qqmusic.up.railway.app/getMvPlay?vid=<v_id>",
+                "Pic": "https://qqmusic.up.railway.app/getImageUrl?id=<m_id>",
+                "TopList": "https://qqmusic.up.railway.app/getTopLists"
             },
             "pt": {
                 "Lyric": "response.lyric"

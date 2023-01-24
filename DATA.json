@@ -76,14 +76,14 @@
         },
         "QQMusicApi": {
             "api": {
-                "MusicSearch": "https://qqmusicapi-2845815262.vercel.app/getSmartbox?key=<keywords>",
-                "Lyric": "https://qqmusicapi-2845815262.vercel.app/getLyric?songmid=<m_id>",
-                "MusicData": "https://qqmusicapi-2845815262.vercel.app/getSongInfo?songmid=<m_id>",
-                "Commend": "https://qqmusicapi-2845815262.vercel.app/getComments?id=<singid>",
-                "MusicDownload": "https://qqmusicapi-2845815262.vercel.app/getMusicPlay?songmid=<m_id>",
-                "MVDownload": "https://qqmusicapi-2845815262.vercel.app/getMvPlay?vid=<v_id>",
-                "Pic": "https://qqmusicapi-2845815262.vercel.app/getImageUrl?id=<m_id>",
-                "TopList": "https://qqmusicapi-2845815262.vercel.app/getTopLists"
+                "MusicSearch": "https://qq-music-api-production.up.railway.app/getSmartbox?key=<keywords>",
+                "Lyric": "https://qq-music-api-production.up.railway.app/getLyric?songmid=<m_id>",
+                "MusicData": "https://qq-music-api-production.up.railway.app/getSongInfo?songmid=<m_id>",
+                "Commend": "https://qq-music-api-production.up.railway.app/getComments?id=<singid>",
+                "MusicDownload": "https://qq-music-api-production.up.railway.app/getMusicPlay?songmid=<m_id>",
+                "MVDownload": "https://qq-music-api-production.up.railway.app/getMvPlay?vid=<v_id>",
+                "Pic": "https://qq-music-api-production.up.railway.app/getImageUrl?id=<m_id>",
+                "TopList": "https://qq-music-api-production.up.railway.app/getTopLists"
             },
             "pt": {
                 "Lyric": "response.lyric"

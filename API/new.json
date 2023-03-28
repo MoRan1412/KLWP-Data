@@ -1,0 +1,6 @@
+{
+    "news": {
+        "channellist": "http://api.tianapi.com/channellist/index?key=de55d9363c71e6cbdf9368a5367a2936",
+        "newsapi": "https://api.tianapi.com/allnews/index?key=de55d9363c71e6cbdf9368a5367a2936&num=10&col=<colid>"
+    }
+}

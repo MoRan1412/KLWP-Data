@@ -10,10 +10,6 @@
         "hefeng_city": "https://geoapi.qweather.com/v2/city/lookup?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc"
     },
     "tianapi": {
-        "news": {
-            "channellist": "http://api.tianapi.com/channellist/index?key=de55d9363c71e6cbdf9368a5367a2936",
-            "newsapi": "https://api.tianapi.com/allnews/index?key=de55d9363c71e6cbdf9368a5367a2936&num=10&col=<colid>"
-        },
         "weather": {
             "AQI": "http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",
             "tianqi": "http://api.tianapi.com/tianqi/index?key=de55d9363c71e6cbdf9368a5367a2936&city=<city>"

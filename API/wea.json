@@ -1,18 +1,11 @@
 {
-    "weatherapi": {
-        "v63": "https://v0.yiketianqi.com/api?unescape=1&version=v63&appid=<tianqiapi_appid>&appsecret=<tianqiapi_appsecret>",
-        "wea7v91": "https://v0.yiketianqi.com/api?unescape=1&version=v91&appid=<tianqiapi_appid>&appsecret=<tianqiapi_appsecret>&ext=&cityid=",
-        "airindex": "https://v0.yiketianqi.com/api?version=v10&appid=<tianqiapi_appid>&appsecret=<tianqiapi_appsecret>",
-        "appsecret": "C3CHZGA9",
-        "appid": "81943679",
-        "hefeng_hour": "https://devapi.qweather.com/v7/weather/24h?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
-        "hefeng_wea": "https://devapi.qweather.com/v7/weather/now?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
-        "hefeng_city": "https://geoapi.qweather.com/v2/city/lookup?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc"
+    "hefeng": {
+        "hour": "https://devapi.qweather.com/v7/weather/24h?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
+        "wea": "https://devapi.qweather.com/v7/weather/now?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
+        "city": "https://geoapi.qweather.com/v2/city/lookup?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc"
     },
     "tianapi": {
-        "weather": {
-            "AQI": "http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",
-            "tianqi": "http://api.tianapi.com/tianqi/index?key=de55d9363c71e6cbdf9368a5367a2936&city=<city>"
-        }
+        "aqi": "http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",
+        "wea": "http://api.tianapi.com/tianqi/index?key=de55d9363c71e6cbdf9368a5367a2936&city=<city>"
     }
 }

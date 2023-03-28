@@ -14,10 +14,6 @@
             "channellist": "http://api.tianapi.com/channellist/index?key=de55d9363c71e6cbdf9368a5367a2936",
             "newsapi": "https://api.tianapi.com/allnews/index?key=de55d9363c71e6cbdf9368a5367a2936&num=10&col=<colid>"
         },
-        "cal": {
-            "lunar": "http://api.tianapi.com/lunar/index?key=de55d9363c71e6cbdf9368a5367a2936&date=<date>",
-            "star": "http://api.tianapi.com/star/index?key=de55d9363c71e6cbdf9368a5367a2936&astro=<astro>"
-        },
         "weather": {
             "AQI": "http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",
             "tianqi": "http://api.tianapi.com/tianqi/index?key=de55d9363c71e6cbdf9368a5367a2936&city=<city>"

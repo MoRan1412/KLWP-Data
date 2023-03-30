@@ -1,7 +1,7 @@
 {
     "news": {
-        "domain": "http://api.tianapi.com",
-        "channellist": "/channellist/index?key=de55d9363c71e6cbdf9368a5367a2936",
-        "newsapi": "/allnews/index?key=de55d9363c71e6cbdf9368a5367a2936&num=10&col=<colid>"
+        "domain": "http://api.tianapi.com/",
+        "channellist": "channellist/index?key=de55d9363c71e6cbdf9368a5367a2936",
+        "newsapi": "allnews/index?key=de55d9363c71e6cbdf9368a5367a2936&num=10&col=<colid>"
     }
 }

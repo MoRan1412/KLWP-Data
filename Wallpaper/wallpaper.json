@@ -65,8 +65,78 @@
 	},
     {
 		"name": "09",
-		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/99.jpg",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/9.jpg",
 		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/9.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "10",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/10.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/10.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "11",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/11.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/11.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "12",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/12.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/12.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "13",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/13.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/13.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "14",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/14.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/14.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "15",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/15.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/15.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "16",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/16.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/16.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "17",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/17.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/17.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "18",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/18.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/18.jpg",
+		"downloadable": true,
+		"dimensions": "1358 x 1920 px"
+	},
+    {
+		"name": "19",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/19.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/19.jpg",
 		"downloadable": true,
 		"dimensions": "1358 x 1920 px"
 	}

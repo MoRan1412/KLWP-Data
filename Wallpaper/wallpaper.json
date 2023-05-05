@@ -1,1 +1,17 @@
 
+[
+	{
+		"name": "00",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/0.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/0.jpg",
+		"downloadable": true,
+		"dimensions": "1222 x 1920 px"
+	},
+	{
+		"name": "01",
+		"url": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/1.jpg",
+		"thumbnail": "https://gitee.com/ken-cheng/KLWP-Data/raw/main/Wallpaper/1.jpg",
+		"downloadable": true,
+		"dimensions": "1242 x 1920 px"
+	}
+]

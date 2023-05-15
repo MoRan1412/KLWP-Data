@@ -1,6 +1,6 @@
 {
     "163": {
-        "domain": "https://163-pi.vercel.app/",
+        "domain": "http://8.217.39.196:3000/",
         "emaillogin": "login?email=<email>&password=<password>&realIP=<ip>",
         "like": "like?like=<Boolean>&id=<m_id>&cookie=<m_cookie>&realIP=<ip>",
         "likelist": "likelist?uid=<m_uid>&cookie=<m_cookie>&realIP=<ip>",
@@ -26,7 +26,7 @@
         "phonesignin": "login/cellphone?phone=<phonenum>&captcha=<captcha>&countrycode=<ctcode>&realIP=<ip>"
     },
     "qq": {
-        "domain": "https://qq-green.vercel.app/",
+        "domain": "http://8.217.39.196:3200/",
         "search": "getSmartbox?key=<keywords>",
         "lyric": "getLyric?songmid=<m_id>",
         "musicdata": "getSongInfo?songmid=<m_id>",

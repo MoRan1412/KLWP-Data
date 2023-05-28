@@ -20,6 +20,7 @@
         "useryunbeisign": "yunbei/sign?cookie=<m_cookie>&realIP=<ip>",
         "usercommenthistory": "user/comment/history?uid=<m_id>&cookie=<m_cookie>&limit=<m_limit>&realIP=<ip>",
         "useralbum": "digitalAlbum/purchased?cookie=<m_cookie>&limit=<m_limit>&realIP=<ip>",
+        "useralbumdata": "album/detail?id=?cookie=<m_cookie>&realIP=<ip>",
         "toplist": "toplist&realIP=<ip>",
         "playlist": "playlist/detail?id=<playlist_id>&realIP=<ip>",
         "musicdata": "song/detail?realIP=<ip>&ids=",

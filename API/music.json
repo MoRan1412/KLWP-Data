@@ -45,5 +45,9 @@
         "mvdownload": "getMvPlay?vid=<v_id>",
         "pic": "getImageUrl?id=<m_id>",
         "toplist": "getTopLists"
+    },
+    "qq2": {
+        "domain": "http://8.217.39.196:3300/",
+        "comment": "comment?id=<songid>&type=<m_sort>&biztype=<m_type>&pageSize=<m_limit>&pageNo=<m_page>",
     }
 }

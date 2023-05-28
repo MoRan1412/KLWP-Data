@@ -40,8 +40,8 @@
         "search": "getSmartbox?key=<keywords>",
         "lyric": "getLyric?songmid=<m_id>",
         "musicdata": "getSongInfo?songmid=<m_id>",
-        "comment": "getComments?id=<singid>",
-        "musicdownload": "getMusicPlay?songmid=<m_id>",
+        "comment": "getComments?id=<songid>&pagesize=<m_newno>",
+        "musicdownload": "getMusicPlay?songmid=<m_id>&biztype=<m_type>&pagesize=<m_limit>&pagenum=<m_page>",
         "mvdownload": "getMvPlay?vid=<v_id>",
         "pic": "getImageUrl?id=<m_id>",
         "toplist": "getTopLists"

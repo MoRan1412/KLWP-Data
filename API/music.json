@@ -9,6 +9,7 @@
         "musicdownload": "song/url?id=<m_id>&cookie=<m_cookie>&realIP=<ip>",
         "comment": "comment/music?id=<m_id>&realIP=<ip>",
         "commentlike": "comment/like?id=<m_id>&cid=<m_cid>&t=<m_t>&type=0&cookie=<m_cookie>&realIP=<ip>",
+        "hotcomments": "comment/hot?id=<m_id>&type=<m_type>&limit=<m_limit>",
         "record": "user/record?uid=<m_uid>&cookie=<m_cookie>&type=<record_type>&realIP=<ip>",
         "search": "search?type=1&realIP=<ip>&keywords=",
         "lyric": "lyric?realIP=<ip>&id=",

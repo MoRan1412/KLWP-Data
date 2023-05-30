@@ -33,7 +33,8 @@
         "getqrcheck": "login/qr/check?key=<qrkey>&realIP=<ip>",
         "phonesend": "captcha/sent?phone=<phonenum>&ctcode=<ctcode>&realIP=<ip>",
         "phoneverify": "captcha/verify?phone=<phonenum>&captcha=<captcha>&ctcode=<ctcode>&realIP=<ip>",
-        "phonesignin": "login/cellphone?phone=<phonenum>&captcha=<captcha>&countrycode=<ctcode>&realIP=<ip>"
+        "phonesignin": "login/cellphone?phone=<phonenum>&captcha=<captcha>&countrycode=<ctcode>&realIP=<ip>",
+        "logtutorial": "https://www.bilibili.com/video/BV1WB4y167iZ/?share_source=copy_web&vd_source=020aa225d8d72c361305cf34b6bb4df0"
     },
     "qq": {
         "domain": "http://8.217.39.196:3200/",

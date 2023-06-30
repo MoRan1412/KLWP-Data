@@ -1,12 +1,7 @@
 {
-    "version": "2.0.0",
-    "code": "200",
-    "message": "目前尚无任何更新讯息",
-    "link": "https://ooklibaioo.lanzoui.com/b03dzvc3i",
-    "updateswitch": "开",
-    "mupdate": "关",
-    "updatelink": "https://ooklibaioo.lanzoui.com/b03dzvc3i",
-    "filename": "畅滑引导APP",
-    "filesize": "",
-    "backup": "开"
+    "version": "5.0.0",
+    "code": "500",
+    "message": "- 目前尚无任何更新讯息",
+    "waibulink": "https://ooklibaioo.lanzoui.com/b03dzvc3i",
+    "dllink": "https://ooklibaioo.lanzoui.com/b03dzvc3i",
 }

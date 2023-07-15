@@ -1,22 +1,62 @@
 [
-	{
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/0.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/0.jpg",
-		"collections": "GRADIENT|ABSTRACT",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
+    {
+		"name": "09",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/9.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/9.jpg",
+		"downloadable": true
+	},
+    {
+		"name": "08",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/8.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/8.jpg",
+		"downloadable": true
+	},
+    {
+		"name": "07",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/7.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/7.jpg",
+		"downloadable": true
+	},
+    {
+		"name": "06",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/6.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/6.jpg",
+		"downloadable": true
+	},
+    {
+		"name": "05",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/5.jpg",
+		"downloadable": true
+	},
+    {
+		"name": "04",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/4.jpg",
+		"downloadable": true
+	},
+    {
+		"name": "03",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/3.jpg",
+		"downloadable": true
+	},
+    {
+		"name": "02",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/2.jpg",
+		"downloadable": true
 	},
 	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
+		"name": "01",
 		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/1.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/1.jpg",
-		"collections": "Landscapes,Art,Material Design",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"downloadable": true
+	},
+	{
+		"name": "00",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/0.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/0.jpg",
+		"downloadable": true
 	}
 ]

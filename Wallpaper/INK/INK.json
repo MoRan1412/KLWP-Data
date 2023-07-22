@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Wallpaper",
+		"author": "MoRan",
+		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+    "dimensions": "1080 x 1920 px",
+		"downloadable": true,
+	}
+]

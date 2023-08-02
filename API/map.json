@@ -1,1 +1,5 @@
-
+{
+    "out": {
+        "image": "https://dev.virtualearth.net/REST/v1/Imagery/Map/Road/<lat>,<lon>/<zoom>?mapSize=1000,1000&pp=<lat>,<lon>&mapLayer=Basemap,Buildings&key=AvUxlNG2IWT5GrqulPPMgo-zUan7QWjWhAEcZtkzx9mkJcLEFCnYZq-lHH_af3HA"
+    }
+}

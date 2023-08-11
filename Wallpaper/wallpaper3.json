@@ -1,0 +1,38 @@
+[
+	{
+		"name": "05",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/5.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "04",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/4.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "03",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/3.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "02",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/2.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "01",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/1.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "00",
+		"url": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/0.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Wallpaper/0.jpg",
+		"downloadable": true
+	}
+]

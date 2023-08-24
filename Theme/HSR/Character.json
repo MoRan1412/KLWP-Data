@@ -3,33 +3,45 @@
     "data": [
         {
             "name": "DAN HENG",
-            "profile": "",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/0.png",
             "star": "4",
             "Lie": {
-                "BG": "",
-                "Character": ""
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/0.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/0.png"
             },
             "WP": {
-                "Counter": "1",
-                "Link": ""
+                "Counter": "2",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/0/<N>.png"
             },
-            "mingtu": "",
-            "shuxing": ""
+            "mingtu": {
+                "Name": "巡猎",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/%E5%91%BD%E9%80%94/%E5%B7%A1%E7%8C%8E.png"
+            },
+            "shuxing": {
+                "Name": "风",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/%E5%B1%AC%E6%80%A7/%E9%A3%8E.png"
+            }
         },
         {
             "name": "BRONYA",
-            "profile": "",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/1.png",
             "star": "5",
             "Lie": {
-                "BG": "",
-                "Character": ""
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/1.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/1.png"
             },
             "WP": {
                 "Counter": "0",
-                "Link": ""
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/1/<N>.png"
             },
-            "mingtu": "",
-            "shuxing": ""
+            "mingtu": {
+                "Name": "同谐",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/%E5%91%BD%E9%80%94/%E5%90%8C%E8%B0%90.png"
+            },
+            "shuxing": {
+                "Name": "风",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/%E5%B1%AC%E6%80%A7/%E9%A3%8E.png"
+            }
         }
     ]
 }

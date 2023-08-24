@@ -4,12 +4,14 @@
         {
             "name": "Dan Heng",
             "star": "4",
-            "WPNum": "2",
             "Lie": {
                 "BG": "",
                 "Character": ""
             },
-            "WP": "",
+            "WP": {
+                "Counter": "2",
+                "Link": ""
+            },
             "mingtu": "",
             "shuxing": ""
         },

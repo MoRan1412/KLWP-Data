@@ -1,0 +1,19 @@
+{
+    "number": "2",
+    "data": [
+        {
+            "name": "Dan Heng",
+            "star": "4",
+            "WPNum": "2",
+            "Lie": {
+                "BG": "",
+                "Character": ""
+            },
+            "WP": ""
+        },
+        {
+            "name": "Bronya Zaychik",
+            "star": "5"
+        }
+    ]
+}

@@ -9,7 +9,7 @@
                 "Character": ""
             },
             "WP": {
-                "Counter": "2",
+                "Counter": "1",
                 "Link": ""
             },
             "mingtu": "",
@@ -17,7 +17,17 @@
         },
         {
             "name": "Bronya Zaychik",
-            "star": "5"
+            "star": "4",
+            "Lie": {
+                "BG": "",
+                "Character": ""
+            },
+            "WP": {
+                "Counter": "0",
+                "Link": ""
+            },
+            "mingtu": "",
+            "shuxing": ""
         }
     ]
 }

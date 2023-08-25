@@ -1,5 +1,5 @@
 {
     "out": {
-        "image": "https://dev.virtualearth.net/REST/v1/Imagery/Map/Road/<lat>,<lon>/<zoom>?mapSize=1000,1000&pp=<lat>,<lon>;76&mapLayer=Basemap,Buildings&key=AvUxlNG2IWT5GrqulPPMgo-zUan7QWjWhAEcZtkzx9mkJcLEFCnYZq-lHH_af3HA"
+        "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v12/static/[<lat>,<lon>]/500x500?access_token=pk.eyJ1IjoibW9yYW4xMjMxIiwiYSI6ImNsbHFwNHBsZjA1dGUzcXBnMXIzbXdzYTgifQ.Yk6_ZApuYoVQ1AeLEfUx-Q"
     }
 }

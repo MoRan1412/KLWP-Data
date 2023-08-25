@@ -3,6 +3,7 @@
     "data": [
         {
             "name": "DAN HENG",
+            "color": "",
             "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/0.png",
             "star": "4",
             "Lie": {
@@ -24,6 +25,7 @@
         },
         {
             "name": "BRONYA",
+            "color": "",
             "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/1.png",
             "star": "5",
             "Lie": {

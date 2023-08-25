@@ -66,6 +66,28 @@
                 "Name": "火",
                 "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/火.png"
             }
+        },
+        {
+            "name": "KAFKA",
+            "color": "#FFB952D9",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/3.png",
+            "star": "5",
+            "Lie": {
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/2.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/3.png"
+            },
+            "WP": {
+                "Counter": "1",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/3/<N>.png"
+            },
+            "mingtu": {
+                "Name": "虚无",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/命途/虚无.png"
+            },
+            "shuxing": {
+                "Name": "雷",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/雷.png"
+            }
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
     "out": {
-        "image": "https://api.mapbox.com/styles/v1/mapbox/light-v11/static/<lat>,<lon>,<zoom>,0/1000x1000@2x?access_token=pk.eyJ1IjoibW9yYW4xMjMxIiwiYSI6ImNsbHFwNHBsZjA1dGUzcXBnMXIzbXdzYTgifQ.Yk6_ZApuYoVQ1AeLEfUx-Q"
+        "image": "https://api.mapbox.com/styles/v1/mapbox/light-v11/static/<lat>,<lon>,<zoom>,0/1000x1000?access_token=pk.eyJ1IjoibW9yYW4xMjMxIiwiYSI6ImNsbHFwNHBsZjA1dGUzcXBnMXIzbXdzYTgifQ.Yk6_ZApuYoVQ1AeLEfUx-Q"
     }
 }

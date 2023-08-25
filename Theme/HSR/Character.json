@@ -1,5 +1,5 @@
 {
-    "number": "2",
+    "number": "3",
     "data": [
         {
             "name": "DAN HENG",
@@ -43,6 +43,28 @@
             "shuxing": {
                 "Name": "风",
                 "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/%E5%B1%AC%E6%80%A7/%E9%A3%8E.png"
+            }
+        },
+        {
+            "name": "HIMEKO",
+            "color": "#FFD75048",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/2.png",
+            "star": "5",
+            "Lie": {
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/0.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/2.png"
+            },
+            "WP": {
+                "Counter": "0",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/2/<N>.png"
+            },
+            "mingtu": {
+                "Name": "智识",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/命途/智识.png"
+            },
+            "shuxing": {
+                "Name": "火",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/火.png"
             }
         }
     ]

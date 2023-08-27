@@ -4,7 +4,7 @@
         {
             "img": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Tutorial/0.jpg",
             "title": "TITLE",
-            "desc": "DESC"
+            "desc": "<C1>DESC<CE>\n<C2>Test<CE>"
         }
     ]
 }

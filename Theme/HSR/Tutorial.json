@@ -2,6 +2,8 @@
     "number": "0",
     "data": [
         {
+            "linkswitch": "0",
+            "link": "https://discord.gg/SWaH6jBjCU",
             "img": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Tutorial/0.jpg",
             "title": "Support",
             "desc": "<C1>If you have any questions, feel free to join our<CE> <C2>Discord server<CE> <C1>for consultation, and we will provide you with answers.\nDiscord server link: <CE><C2>https://discord.gg/SWaH6jBjCU<CE>"

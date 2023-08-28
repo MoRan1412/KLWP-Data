@@ -1,5 +1,5 @@
 {
-    "number": "4",
+    "number": "5",
     "data": [
         {
             "name": "DAN HENG",
@@ -87,6 +87,28 @@
             "shuxing": {
                 "Name": "雷",
                 "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/雷.png"
+            }
+        },
+        {
+            "name": "SILVER WOLF",
+            "color": "#FFB952D9",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/4.png",
+            "star": "5",
+            "Lie": {
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/2.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/4.png"
+            },
+            "WP": {
+                "Counter": "1",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/4/<N>.png"
+            },
+            "mingtu": {
+                "Name": "Nihility",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/命途/虚无.png"
+            },
+            "shuxing": {
+                "Name": "雷",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/量子.png"
             }
         }
     ]

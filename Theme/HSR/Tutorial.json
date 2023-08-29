@@ -7,6 +7,13 @@
             "img": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Tutorial/0.jpg",
             "title": "Support",
             "desc": "<C1>If you have any questions, feel free to join our<CE> <C2>Discord server<CE> <C1>for consultation, and we will provide you with answers.\nDiscord server link: <CE><C2>https://discord.gg/SWaH6jBjCU<CE>"
+        },
+        {
+            "linkswitch": "1",
+            "link": "https://drive.google.com/drive/folders/1cz4LCDpRG98dZLiI9G5UDn4TTOlo0Ffz?usp=sharing",
+            "img": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Tutorial/1.PNG",
+            "title": "Theme Update",
+            "desc": "<C1>To learn more about the latest updates, please visit our<CE> <C2>Discord server.<CE>"
         }
     ]
 }

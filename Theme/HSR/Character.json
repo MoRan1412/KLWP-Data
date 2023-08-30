@@ -1,5 +1,5 @@
 {
-    "number": "5",
+    "number": "6",
     "data": [
         {
             "name": "DAN HENG",
@@ -107,8 +107,30 @@
                 "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/命途/虚无.png"
             },
             "shuxing": {
-                "Name": "雷",
+                "Name": "量子",
                 "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/量子.png"
+            }
+        },
+        {
+            "name": "CLARA",
+            "color": "#FF7f7f7f",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/5.png",
+            "star": "5",
+            "Lie": {
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/1.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/5.png"
+            },
+            "WP": {
+                "Counter": "0",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/5/<N>.png"
+            },
+            "mingtu": {
+                "Name": "Destruction",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/命途/毁灭.png"
+            },
+            "shuxing": {
+                "Name": "物理",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/物理.png"
             }
         }
     ]

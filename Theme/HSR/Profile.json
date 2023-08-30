@@ -1,5 +1,5 @@
 {
-    "number": "7",
+    "number": "8",
     "data": [
         {
             "name": "Dan Hen",
@@ -32,6 +32,10 @@
         {
             "name": "",
             "link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Profile/7.png"
+        },
+        {
+            "name": "",
+            "link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Profile/8.png"
         }
     ]
 }

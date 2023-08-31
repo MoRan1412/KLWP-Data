@@ -68,6 +68,28 @@
             }
         },
         {
+            "name": "Asta",
+            "color": "#FFed453c",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/10.png",
+            "star": "4",
+            "Lie": {
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/4.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/10.png"
+            },
+            "WP": {
+                "Counter": "0",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/10/<N>.png"
+            },
+            "mingtu": {
+                "Name": "Harmony",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/命途/同谐.png"
+            },
+            "shuxing": {
+                "Name": "火",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/火.png"
+            }
+        },
+        {
             "name": "BRONYA",
             "color": "#FF40C48B",
             "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/1.png",

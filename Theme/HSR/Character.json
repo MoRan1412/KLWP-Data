@@ -46,6 +46,28 @@
             }
         },
         {
+            "name": "HERTA",
+            "color": "#FF2592d2",
+            "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/9.png",
+            "star": "4",
+            "Lie": {
+                "BG": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/BG/4.jpg",
+                "Character": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Lie/Character/9.png"
+            },
+            "WP": {
+                "Counter": "1",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/WP/9/<N>.png"
+            },
+            "mingtu": {
+                "Name": "Erudition",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/命途/智识.png"
+            },
+            "shuxing": {
+                "Name": "冰",
+                "Link": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Icon/屬性/冰.png"
+            }
+        },
+        {
             "name": "BRONYA",
             "color": "#FF40C48B",
             "profile": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Character/Profile/1.png",

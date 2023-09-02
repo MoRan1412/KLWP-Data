@@ -1,5 +1,5 @@
 {
-    "number": "1",
+    "number": "2",
     "data": [
         {
             "linkswitch": "1",
@@ -14,6 +14,13 @@
             "img": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Tutorial/1.png",
             "title": "Theme Update",
             "desc": "<C1>To learn more about the latest updates, please visit our<CE> <C2>Discord server<CE>."
+        },
+        {
+            "linkswitch": "0",
+            "link": "",
+            "img": "https://raw.githubusercontent.com/MoRan1412/KLWP-Data/main/Theme/HSR/Image/Tutorial/2.jpg",
+            "title": "More Screen Pages",
+            "desc": "<C1>If you want to add more pages, you can turn on the<CE> <C2>App page<CE> in the <C2>klwp global.<CE>\n<C1>Path:<CE> <C2>Configs > Initial Settings > App Page<CE>"
         }
     ]
 }

@@ -7,5 +7,8 @@
     "tianapi": {
         "aqi": "http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",
         "wea": "http://api.tianapi.com/tianqi/index?key=de55d9363c71e6cbdf9368a5367a2936&city=<city>"
+    },
+    {
+    "img": "https://jihulab.com/MoRan1412/KLWP-Data/-/raw/main/Icons/Weather/"
     }
 }

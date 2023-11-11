@@ -1,8 +1,8 @@
 {
     "hefeng": {
-        "hour": "https://devapi.qweather.com/v7/weather/24h?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
-        "wea": "https://devapi.qweather.com/v7/weather/now?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc",
-        "city": "https://geoapi.qweather.com/v2/city/lookup?location=<city>&key=a51dfed88edd46c9bc89fa5a2886d6cc"
+        "hour": "https://devapi.qweather.com/v7/weather/24h?location=<city>&key=fa1e7ec815404e49ba106eaf826f505e",
+        "wea": "https://devapi.qweather.com/v7/weather/now?location=<city>&key=fa1e7ec815404e49ba106eaf826f505e",
+        "city": "https://geoapi.qweather.com/v2/city/lookup?location=<city>&key=fa1e7ec815404e49ba106eaf826f505e"
     },
     "tianapi": {
         "aqi": "http://api.tianapi.com/aqi/index?key=de55d9363c71e6cbdf9368a5367a2936&area=<city>",

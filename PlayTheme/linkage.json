@@ -1,8 +1,8 @@
 {
     "code": "200",
     "data": {
-        "v_code": "230",
-        "v_version": "2.3.0",
+        "v_code": "120",
+        "v_version": "1.2.0",
         "v_msg": "-",
         "remind_code": "0",
         "remind_msg": "None"

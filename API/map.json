@@ -1,5 +1,5 @@
 {
-    "out": {
+    "out1": {
         "image": "https://api.mapbox.com/styles/v1/mapbox/light-v11/static/<lon>,<lat>,<zoom>,0/1000x1000?access_token=pk.eyJ1IjoibW9yYW4xMjMxIiwiYSI6ImNsbW9rbXJvOTFicnYyaWw4MWZxeTl1b3EifQ.q3ezvzvfxirMEbt6hQxacw"
     }
 }

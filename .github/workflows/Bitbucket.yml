@@ -1,0 +1,24 @@
+name: Mirror GitHub Repository to Bitbucket
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  mirror_to_bitbucket:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout GitHub repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Mirror to Bitbucket
+      uses: heussd/mirror-to-bitbucket-github-action@v2
+      with:
+        username: mtheme1231
+        repository: klwp-data
+        password: ${{ secrets.ATBBT5ZDStAmWD5qrDx3ZjhBeevK78302562 }}

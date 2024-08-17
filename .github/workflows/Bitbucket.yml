@@ -21,4 +21,4 @@ jobs:
       with:
         username: KenCheng1231
         repository: klwp-data
-        password: ${{ secrets.ATBBT5ZDStAmWD5qrDx3ZjhBeevK78302562 }}
+        password: ${{ secrets.ATBBsxUnnnch5V3P4Q9kz8CUtEvs5B996AD1 }}

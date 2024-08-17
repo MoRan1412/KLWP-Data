@@ -1,0 +1,19 @@
+name: Sync to Bitbucket
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Sync to Bitbucket
+        run: |
+          git remote add bitbucket git@bitbucket.org:mtheme1231/klwp-data.git
+          git push bitbucket main
